@@ -1,0 +1,1460 @@
+# sent_id = ENU_22_Barman-Interview_MG__1
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = ah me < I bin dey my house //
+# text_en = Ah, myself, I have been at home.
+# text_ortho = Ah me, I bin dey my house.
+# timestamp = 1591368508.167071
+1	ah	ah	INTJ	_	_	5	discourse	_	AlignBegin=935|AlignEnd=1279|Gloss=ah|deprel_main_pred=discourse|head_MST=5|upostag=ADJ
+2	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	dislocated	_	AlignBegin=1279|AlignEnd=1500|Gloss=NOM.SG.1|deprel_main_pred=dislocated|head_MST=5|upostag=PRON
+3	<	<	PUNCT	_	_	2	punct	_	AlignBegin=1470|AlignEnd=1500|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	subj	_	AlignBegin=1500|AlignEnd=1662|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=5|upostag=PRON
+5	bin	bin	AUX	_	Tense=Past	0	root	_	AlignBegin=1662|AlignEnd=1864|Gloss=PST|deprel_main_pred=root|head_MST=0|upostag=AUX
+6	dey	dey	VERB	_	VerbType=Cop	5	comp:aux	_	AlignBegin=1864|AlignEnd=2028|Gloss=be|deprel_main_pred=comp:aux|head_MST=5|upostag=VERB
+7	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	8	mod:poss	_	AlignBegin=2028|AlignEnd=2247|Gloss=SG.1.POSS|deprel_main_pred=mod:poss|head_MST=8|upostag=PRON
+8	house	house	NOUN	_	_	6	comp:pred	_	AlignBegin=2247|AlignEnd=2784|Gloss=house|deprel_main_pred=comp:pred|head_MST=6|upostag=NOUN
+9	//	//	PUNCT	_	_	5	punct	_	AlignBegin=2754|AlignEnd=2784|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__2
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # just dey //
+# text_en = Just there.
+# text_ortho = Just dey.
+# timestamp = 1591368508.167089
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=2784|AlignEnd=4090|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+2	just	just	ADV	_	_	3	mod	_	AlignBegin=4090|AlignEnd=4446|Gloss=just|deprel_main_pred=mod|head_MST=3|upostag=ADV
+3	dey	dey	VERB	_	VerbType=Cop	0	root	_	AlignBegin=4446|AlignEnd=4930|Gloss=be|deprel_main_pred=root|head_MST=0|upostag=VERB
+4	//	//	PUNCT	_	_	3	punct	_	AlignBegin=4900|AlignEnd=4930|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__3
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # ehn one of my # { guy || # guy friend } < # dose day < im call me //
+# text_en = Uh... one of my guys, a male friend, those days, he called me.
+# text_ortho = Ehn one of my guy, guy friend, dose day, im call me.
+# timestamp = 1591368508.167094
+1	#	#	PUNCT	_	_	20	punct	_	AlignBegin=4930|AlignEnd=6860|Gloss=PUNCT|deprel_main_pred=punct|head_MST=20|upostag=PUNCT
+2	ehn	ehn	INTJ	_	_	20	discourse	_	AlignBegin=6860|AlignEnd=7090|Gloss=ehn|deprel_main_pred=discourse|head_MST=20|upostag=ADJ
+3	one	one	NUM	_	NumType=Card	20	dislocated	_	AlignBegin=7090|AlignEnd=7310|Gloss=one|deprel_main_pred=dislocated|head_MST=20|upostag=NUM
+4	of	of	ADP	_	_	3	mod	_	AlignBegin=7310|AlignEnd=7490|Gloss=of|deprel_main_pred=mod|head_MST=3|upostag=ADP
+5	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	8	mod:poss	_	AlignBegin=7490|AlignEnd=8296|Gloss=SG.1.POSS|deprel_main_pred=mod:poss|head_MST=8|upostag=PRON
+6	#	#	PUNCT	_	_	5	punct	_	AlignBegin=8296|AlignEnd=9070|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+7	{	{	PUNCT	_	_	12	punct	_	AlignBegin=9040|AlignEnd=9070|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+8	guy	guy	NOUN	_	_	4	comp:obj	_	AlignBegin=9070|AlignEnd=9660|Gloss=guy|deprel_main_pred=comp:obj|head_MST=4|upostag=NOUN
+9	||	||	PUNCT	_	_	12	punct	_	AlignBegin=9630|AlignEnd=9660|Gloss=PUNCT|deprel_main_pred=punct|head_MST=12|upostag=PUNCT
+10	#	#	PUNCT	_	_	12	punct	_	AlignBegin=9660|AlignEnd=10457|Gloss=PUNCT|deprel_main_pred=punct|head_MST=12|upostag=PUNCT
+11	guy	guy	NOUN	_	_	12	mod	_	AlignBegin=10457|AlignEnd=10870|Gloss=guy|deprel_main_pred=mod|head_MST=12|upostag=NOUN
+12	friend	friend	NOUN	_	_	8	conj:dicto	_	AlignBegin=10870|AlignEnd=11620|Gloss=friend|deprel_main_pred=conj:dicto|head_MST=8|upostag=NOUN
+13	}	}	PUNCT	_	_	6	punct	_	AlignBegin=11590|AlignEnd=11620|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+14	<	<	PUNCT	_	_	3	punct	_	AlignBegin=11590|AlignEnd=11620|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+15	#	#	PUNCT	_	_	3	punct	_	AlignBegin=11620|AlignEnd=12746|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+16	dose	dose	DET	_	Number=Plur|PronType=Dem	17	det	_	AlignBegin=12746|AlignEnd=13036|Gloss=PL.DIST.DEM|deprel_main_pred=det|head_MST=17|upostag=DET
+17	day	day	NOUN	_	_	20	mod:periph	_	AlignBegin=13036|AlignEnd=13151|Gloss=day|deprel_main_pred=mod:periph|head_MST=20|upostag=NOUN
+18	<	<	PUNCT	_	_	17	punct	_	AlignBegin=13121|AlignEnd=13151|Gloss=PUNCT|deprel_main_pred=punct|head_MST=17|upostag=PUNCT
+19	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	20	subj	_	AlignBegin=13151|AlignEnd=13245|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=20|upostag=PRON
+20	call	call	VERB	_	_	0	root	_	AlignBegin=13245|AlignEnd=13563|Gloss=call|deprel_main_pred=root|head_MST=0|upostag=VERB
+21	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	20	comp:obj	_	AlignBegin=13563|AlignEnd=13950|Gloss=ACC.SG.1|deprel_main_pred=comp:obj|head_MST=20|upostag=PRON
+22	//	//	PUNCT	_	_	20	punct	_	AlignBegin=13920|AlignEnd=13950|Gloss=PUNCT|deprel_main_pred=punct|head_MST=20|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__4
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # tell me sey # [ e get one work # wey come out ] //
+# text_en = He told me there was a new job that had just come up.
+# text_ortho = Tell me sey e get one work wey come out.
+# timestamp = 1591368508.167097
+1	#	#	PUNCT	_	_	2	punct	_	AlignBegin=13950|AlignEnd=14240|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+2	tell	tell	VERB	_	_	0	root	_	AlignBegin=14240|AlignEnd=14408|Gloss=tell|deprel_main_pred=root|head_MST=0|upostag=VERB
+3	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	comp:obl	_	AlignBegin=14408|AlignEnd=14530|Gloss=ACC.SG.1|deprel_main_pred=comp:obl|head_MST=2|upostag=PRON
+4	sey	sey	SCONJ	_	_	2	comp:obj	_	AlignBegin=14530|AlignEnd=15263|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=2|upostag=SCONJ
+5	#	#	PUNCT	_	_	8	punct	_	AlignBegin=15263|AlignEnd=15700|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+6	[	[	PUNCT	_	_	8	punct	_	AlignBegin=15670|AlignEnd=15700|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+7	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	subj@expl	_	AlignBegin=15700|AlignEnd=15832|Gloss=NOM.SG.3|deprel_main_pred=subj@expl|head_MST=8|upostag=PRON
+8	get	get	VERB	_	_	4	comp:obj	_	AlignBegin=15832|AlignEnd=16059|Gloss=get|deprel_main_pred=comp:obj|head_MST=4|upostag=VERB
+9	one	one	DET	_	Definite=Spec|PronType=Art	10	det	_	AlignBegin=16059|AlignEnd=16362|Gloss=SPEC.ART|deprel_main_pred=det|head_MST=10|upostag=DET
+10	work	work	NOUN	_	_	8	comp:obj@agent	_	AlignBegin=16362|AlignEnd=16840|Gloss=work|deprel_main_pred=comp:obj@agent|head_MST=8|upostag=NOUN
+11	#	#	PUNCT	_	_	12	punct	_	AlignBegin=16840|AlignEnd=17178|Gloss=PUNCT|deprel_main_pred=punct|head_MST=12|upostag=PUNCT
+12	wey	wey	SCONJ	_	_	10	mod@relcl	_	AlignBegin=17178|AlignEnd=17340|Gloss=REL|deprel_main_pred=mod@relcl|head_MST=10|upostag=SCONJ
+13	come	come	VERB	_	_	12	comp:obj	_	AlignBegin=17340|AlignEnd=17650|Gloss=come|deprel_main_pred=comp:obj|head_MST=12|upostag=VERB
+14	out	out	ADP	_	_	13	compound:prt	_	AlignBegin=17650|AlignEnd=18140|Gloss=out|deprel_main_pred=compound:prt|head_MST=13|upostag=ADP
+15	]	]	PUNCT	_	_	8	punct	_	AlignBegin=18110|AlignEnd=18140|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+16	//	//	PUNCT	_	_	2	punct	_	AlignBegin=18110|AlignEnd=18140|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__5
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # I tell am sey [ which kind work be dat o ?//] //
+# text_en = I asked him what kind of job it was.
+# text_ortho = I tell am sey which kind work be dat o?
+# timestamp = 1591368508.1671
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=18140|AlignEnd=19040|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	subj	_	AlignBegin=19040|AlignEnd=19120|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=3|upostag=PRON
+3	tell	tell	VERB	_	_	0	root	_	AlignBegin=19120|AlignEnd=19180|Gloss=tell|deprel_main_pred=root|head_MST=0|upostag=VERB
+4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=19180|AlignEnd=19320|Gloss=ACC.SG.3|deprel_main_pred=comp:obj|head_MST=3|upostag=PRON
+5	sey	sey	SCONJ	_	_	3	comp:obj	_	AlignBegin=19320|AlignEnd=19490|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=3|upostag=SCONJ
+6	[	[	PUNCT	_	_	9	punct	_	AlignBegin=19460|AlignEnd=19490|Gloss=PUNCT|deprel_main_pred=punct|head_MST=9|upostag=PUNCT
+7	which	which	DET	_	PronType=Int	9	det	_	AlignBegin=19490|AlignEnd=19708|Gloss=which|deprel_main_pred=det|head_MST=9|upostag=DET
+8	kind	kind	ADJ	_	_	9	mod	_	AlignBegin=19708|AlignEnd=19986|Gloss=kind|deprel_main_pred=mod|head_MST=9|upostag=ADJ
+9	work	work	NOUN	_	_	5	comp:obj	_	AlignBegin=19986|AlignEnd=20171|Gloss=work|deprel_main_pred=comp:obj|head_MST=5|upostag=NOUN
+10	be	be	VERB	_	PartType=Cop	9	comp:cleft	_	AlignBegin=20171|AlignEnd=20335|Gloss=be|deprel_main_pred=comp:cleft|head_MST=9|upostag=VERB
+11	dat	dat	PRON	_	Number=Sing|PronType=Dem	10	comp:pred@agent	_	AlignBegin=20335|AlignEnd=20681|Gloss=SG.DEM|deprel_main_pred=comp:pred@agent|head_MST=10|upostag=PRON
+12	o	o	PART	_	PartType=Disc	11	mod:emph	_	AlignBegin=20681|AlignEnd=20902|Gloss=EMPH|deprel_main_pred=mod:emph|head_MST=11|upostag=PART
+13	?//]	?//]	PUNCT	_	_	9	punct	_	AlignBegin=20872|AlignEnd=20902|Gloss=PUNCT|deprel_main_pred=punct|head_MST=9|upostag=PUNCT
+14	//	//	PUNCT	_	_	3	punct	_	AlignBegin=20872|AlignEnd=20902|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__6
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = im tell me sey # [ ehn im get people # { wey go work || do tu- wey go do di work } ] //
+# text_en = He told me that uh... he has people who would work... who would do the work.
+# text_ortho = Im tell me sey ehn... im get people wey go work... wey go do di work.
+# timestamp = 1591368508.167103
+1	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	subj	_	AlignBegin=20902|AlignEnd=20990|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=2|upostag=PRON
+2	tell	tell	VERB	_	_	0	root	_	AlignBegin=20990|AlignEnd=21207|Gloss=tell|deprel_main_pred=root|head_MST=0|upostag=VERB
+3	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	comp:obj	_	AlignBegin=21207|AlignEnd=21336|Gloss=ACC.SG.1|deprel_main_pred=comp:obl|head_MST=2|upostag=PRON
+4	sey	sey	SCONJ	_	_	2	comp:obj	_	AlignBegin=21336|AlignEnd=21887|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=2|upostag=SCONJ
+5	#	#	PUNCT	_	_	9	punct	_	AlignBegin=21887|AlignEnd=22540|Gloss=PUNCT|deprel_main_pred=punct|head_MST=9|upostag=PUNCT
+6	[	[	PUNCT	_	_	9	punct	_	AlignBegin=22510|AlignEnd=22540|Gloss=PUNCT|deprel_main_pred=punct|head_MST=9|upostag=PUNCT
+7	ehn	ehn	INTJ	_	_	9	discourse	_	AlignBegin=22540|AlignEnd=23190|Gloss=ehn|deprel_main_pred=discourse|head_MST=9|upostag=ADJ
+8	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	subj	_	AlignBegin=23190|AlignEnd=23378|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=9|upostag=PRON
+9	get	get	VERB	_	_	4	comp:obj	_	AlignBegin=23378|AlignEnd=23595|Gloss=get|deprel_main_pred=comp:obj|head_MST=4|upostag=VERB
+10	people	people	NOUN	_	Number=Plur	9	comp:obj	_	AlignBegin=23595|AlignEnd=24080|Gloss=people.PL|deprel_main_pred=comp:obj|head_MST=9|upostag=NOUN
+11	#	#	PUNCT	_	_	13	punct	_	AlignBegin=24080|AlignEnd=24740|Gloss=PUNCT|deprel_main_pred=punct|head_MST=13|upostag=PUNCT
+12	{	{	PUNCT	_	_	13	punct	_	AlignBegin=24710|AlignEnd=24740|Gloss=PUNCT|deprel_main_pred=punct|head_MST=13|upostag=PUNCT
+13	wey	wey	SCONJ	_	_	10	mod@relcl	_	AlignBegin=24740|AlignEnd=24949|Gloss=REL|deprel_main_pred=mod@relcl|head_MST=10|upostag=SCONJ
+14	go	go	AUX	_	Aspect=Prosp	13	comp:obj	_	AlignBegin=24949|AlignEnd=25310|Gloss=PROSP|deprel_main_pred=comp:obj|head_MST=13|upostag=AUX
+15	work	work	VERB	_	_	14	comp:aux	_	AlignBegin=25310|AlignEnd=25537|Gloss=work|deprel_main_pred=comp:aux|head_MST=14|upostag=VERB
+16	||	||	PUNCT	_	_	19	punct	_	AlignBegin=25653|AlignEnd=25683|Gloss=PUNCT|deprel_main_pred=punct|head_MST=17|upostag=PUNCT
+17	do	do	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=25537|AlignEnd=25683|Gloss=do.IND.PRS.FIN|Problem=Yes|deprel_main_pred=conj:dicto|head_MST=14|upostag=VERB
+18	tu-	_	_	_	_	0	root	_	AlignBegin=25683|AlignEnd=25820|Gloss=_|Problem=Yes|deprel_main_pred=comp:obj|head_MST=17|upostag=X
+19	wey	when	SCONJ	_	_	13	conj:dicto	_	AlignBegin=25820|AlignEnd=25950|Gloss=when|deprel_main_pred=mod@relcl|head_MST=18|upostag=SCONJ
+20	go	go	AUX	_	Aspect=Prosp	19	comp:obj	_	AlignBegin=25950|AlignEnd=26093|Gloss=PROSP|deprel_main_pred=comp:obj|head_MST=19|upostag=AUX
+21	do	do	VERB	_	_	20	comp:aux	_	AlignBegin=26093|AlignEnd=26293|Gloss=do|deprel_main_pred=comp:aux|head_MST=20|upostag=VERB
+22	di	di	DET	_	Definite=Def|PronType=Art	23	det	_	AlignBegin=26293|AlignEnd=26450|Gloss=DEF.ART|deprel_main_pred=det|head_MST=23|upostag=DET
+23	work	work	NOUN	_	_	21	comp:obj	_	AlignBegin=26450|AlignEnd=26854|Gloss=work|deprel_main_pred=comp:obj|head_MST=21|upostag=NOUN
+24	}	}	PUNCT	_	_	13	punct	_	AlignBegin=26824|AlignEnd=26854|Gloss=PUNCT|deprel_main_pred=punct|head_MST=13|upostag=PUNCT
+25	]	]	PUNCT	_	_	9	punct	_	AlignBegin=26824|AlignEnd=26854|Gloss=PUNCT|deprel_main_pred=punct|head_MST=9|upostag=PUNCT
+26	//	//	PUNCT	_	_	2	punct	_	AlignBegin=26824|AlignEnd=26854|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__7
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # but # im wan [ meh im be me wey dey here ] # because im no too trust { di oder || di oder } people //
+# text_en = But, he wants me, who is here, to be the one to do it because he doesn't trust the other... the other people.
+# text_ortho = But im wan meh im be me wey dey here because im no too trust di oder, di oder people.
+# timestamp = 1591368508.167106
+1	#	#	PUNCT	_	_	5	punct	_	AlignBegin=26854|AlignEnd=27120|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+2	but	but	CCONJ	_	_	5	cc	_	AlignBegin=27120|AlignEnd=27700|Gloss=but|deprel_main_pred=cc|head_MST=5|upostag=CCONJ
+3	#	#	PUNCT	_	_	2	punct	_	AlignBegin=27700|AlignEnd=28220|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+4	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	subj	_	AlignBegin=28220|AlignEnd=28447|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=5|upostag=PRON
+5	wan	want	VERB	_	_	0	root	_	AlignBegin=28447|AlignEnd=28678|Gloss=want|deprel_main_pred=root|head_MST=0|upostag=VERB
+6	[	[	PUNCT	_	_	7	punct	_	AlignBegin=28648|AlignEnd=28678|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+7	meh	make	AUX	_	Mood=Opt	5	comp:pred	_	AlignBegin=28678|AlignEnd=28830|Gloss=SBJV|levenshtein=Yes|mot=mey|deprel_main_pred=parataxis:obj|head_MST=5|upostag=AUX
+8	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	subj	_	AlignBegin=28830|AlignEnd=29071|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=9|upostag=PRON
+9	be	be	VERB	_	PartType=Cop	7	comp:aux	_	AlignBegin=29071|AlignEnd=29226|Gloss=be|deprel_main_pred=comp:aux|head_MST=7|upostag=VERB
+10	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	comp:pred	_	AlignBegin=29226|AlignEnd=29524|Gloss=ACC.SG.1|deprel_main_pred=comp:pred|head_MST=9|upostag=PRON
+11	wey	wey	SCONJ	_	_	10	mod@relcl	_	AlignBegin=29524|AlignEnd=29772|Gloss=REL|deprel_main_pred=mod@relcl|head_MST=10|upostag=SCONJ
+12	dey	dey	VERB	_	VerbType=Cop	11	comp:obj	_	AlignBegin=29772|AlignEnd=30044|Gloss=be|deprel_main_pred=comp:obj|head_MST=11|upostag=VERB
+13	here	here	ADV	_	_	12	comp:pred	_	AlignBegin=30044|AlignEnd=30340|Gloss=here|deprel_main_pred=comp:pred|head_MST=12|upostag=ADV
+14	]	]	PUNCT	_	_	7	punct	_	AlignBegin=30310|AlignEnd=30340|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+15	#	#	PUNCT	_	_	16	punct	_	AlignBegin=30340|AlignEnd=30960|Gloss=PUNCT|deprel_main_pred=punct|head_MST=16|upostag=PUNCT
+16	because	because	SCONJ	_	_	5	mod	_	AlignBegin=30960|AlignEnd=31270|Gloss=because|deprel_main_pred=mod|head_MST=5|upostag=SCONJ
+17	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	20	subj	_	AlignBegin=31270|AlignEnd=31440|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=20|upostag=PRON
+18	no	no	PART	_	Polarity=Neg	20	mod	_	AlignBegin=31440|AlignEnd=31580|Gloss=NEG|deprel_main_pred=mod|head_MST=20|upostag=PART
+19	too	too	ADV	_	_	20	mod	_	AlignBegin=31580|AlignEnd=31780|Gloss=too|deprel_main_pred=mod|head_MST=20|upostag=ADV
+20	trust	trust	VERB	_	_	16	comp:obj	_	AlignBegin=31780|AlignEnd=32539|Gloss=trust|deprel_main_pred=comp:obj|head_MST=16|upostag=VERB
+21	{	{	PUNCT	_	_	23	punct	_	AlignBegin=32509|AlignEnd=32539|Gloss=PUNCT|deprel_main_pred=punct|head_MST=23|upostag=PUNCT
+22	di	di	DET	_	Definite=Def|PronType=Art	23	det	_	AlignBegin=32539|AlignEnd=32660|Gloss=DEF.ART|deprel_main_pred=det|head_MST=28|upostag=DET
+23	oder	oder	ADJ	_	_	28	mod	_	AlignBegin=32660|AlignEnd=33290|Gloss=other|deprel_main_pred=mod|head_MST=28|upostag=ADJ
+24	||	||	PUNCT	_	_	26	punct	_	AlignBegin=33260|AlignEnd=33290|Gloss=PUNCT|deprel_main_pred=punct|head_MST=26|upostag=PUNCT
+25	di	di	DET	_	Definite=Def|PronType=Art	26	det	_	AlignBegin=33290|AlignEnd=33380|Gloss=DEF.ART|deprel_main_pred=det|head_MST=26|upostag=DET
+26	oder	oder	ADJ	_	_	23	conj:coord	_	AlignBegin=33380|AlignEnd=33648|Gloss=other|deprel_main_pred=conj:dicto|head_MST=23|upostag=ADJ
+27	}	}	PUNCT	_	_	23	punct	_	AlignBegin=33618|AlignEnd=33648|Gloss=PUNCT|deprel_main_pred=punct|head_MST=23|upostag=PUNCT
+28	people	people	NOUN	_	Number=Plur	20	comp:obj	_	AlignBegin=33648|AlignEnd=34200|Gloss=people.PL|deprel_main_pred=comp:obj|head_MST=20|upostag=NOUN
+29	//	//	PUNCT	_	_	5	punct	_	AlignBegin=34170|AlignEnd=34200|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__8
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # so I tell am sey [ how di work go be ?//] //
+# text_en = So I asked him, "what will the work be like?"
+# text_ortho = So I tell am sey "how di work go be?"
+# timestamp = 1591368508.167109
+1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=34200|AlignEnd=35186|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+2	so	so	ADV	_	_	4	discourse	_	AlignBegin=35186|AlignEnd=35288|Gloss=so|deprel_main_pred=discourse|head_MST=4|upostag=ADV
+3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	subj	_	AlignBegin=35288|AlignEnd=35390|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=4|upostag=PRON
+4	tell	tell	VERB	_	_	0	root	_	AlignBegin=35390|AlignEnd=35590|Gloss=tell|deprel_main_pred=root|head_MST=0|upostag=VERB
+5	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	comp:obj	_	AlignBegin=35590|AlignEnd=35774|Gloss=ACC.SG.3|deprel_main_pred=comp:obj|head_MST=4|upostag=PRON
+6	sey	sey	SCONJ	_	_	4	comp:obj	_	AlignBegin=35774|AlignEnd=35980|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=4|upostag=SCONJ
+7	[	[	PUNCT	_	_	8	punct	_	AlignBegin=35950|AlignEnd=35980|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+8	how	how	ADV	_	PronType=Int	6	comp:obj	_	AlignBegin=35980|AlignEnd=36206|Gloss=how.Q|deprel_main_pred=comp:obj|head_MST=6|upostag=ADV
+9	di	di	DET	_	Definite=Def|PronType=Art	10	det	_	AlignBegin=36206|AlignEnd=36330|Gloss=DEF.ART|deprel_main_pred=det|head_MST=10|upostag=DET
+10	work	work	NOUN	_	_	11	subj	_	AlignBegin=36330|AlignEnd=36568|Gloss=work|deprel_main_pred=subj|head_MST=11|upostag=NOUN
+11	go	go	AUX	_	Aspect=Prosp	8	comp:cleft	_	AlignBegin=36568|AlignEnd=36774|Gloss=PROSP|deprel_main_pred=comp:cleft|head_MST=8|upostag=AUX
+12	be	be	VERB	_	PartType=Cop	11	comp:aux	_	AlignBegin=36774|AlignEnd=37100|Gloss=be|deprel_main_pred=comp:aux|head_MST=11|upostag=VERB
+13	?//]	?//]	PUNCT	_	_	8	punct	_	AlignBegin=37070|AlignEnd=37100|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+14	//	//	PUNCT	_	_	4	punct	_	AlignBegin=37070|AlignEnd=37100|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__9
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # im tell me sey [ na bush bar # ehn work ] //
+# text_en = He told me that it’s uh... work in a bush bar.
+# text_ortho = Im tell me sey na bush bar ehn... work.
+# timestamp = 1591368508.167112
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=37100|AlignEnd=37640|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+2	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	subj	_	AlignBegin=37640|AlignEnd=37779|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=3|upostag=PRON
+3	tell	tell	VERB	_	_	0	root	_	AlignBegin=37779|AlignEnd=37876|Gloss=tell|deprel_main_pred=root|head_MST=0|upostag=VERB
+4	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	comp:obj	_	AlignBegin=37876|AlignEnd=37993|Gloss=ACC.SG.1|deprel_main_pred=comp:obj|head_MST=3|upostag=PRON
+5	sey	sey	SCONJ	_	_	3	comp:obj	_	AlignBegin=37993|AlignEnd=38190|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=3|upostag=SCONJ
+6	[	[	PUNCT	_	_	7	punct	_	AlignBegin=38160|AlignEnd=38190|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+7	na	na	PART	_	PartType=Cop	5	comp:obj	_	AlignBegin=38190|AlignEnd=38570|Gloss=be|deprel_main_pred=comp:obj|head_MST=5|upostag=PART
+8	bush	bush	NOUN	_	_	9	compound	_	AlignBegin=38570|AlignEnd=38910|Gloss=bush|deprel_main_pred=compound|head_MST=9|upostag=NOUN
+9	bar	bar	NOUN	_	_	12	mod	_	AlignBegin=38910|AlignEnd=39370|Gloss=bar|deprel_main_pred=comp:pred|head_MST=7|upostag=NOUN
+10	#	#	PUNCT	_	_	12	punct	_	AlignBegin=39370|AlignEnd=40220|Gloss=PUNCT|deprel_main_pred=punct|head_MST=12|upostag=PUNCT
+11	ehn	ehn	INTJ	_	_	12	discourse	_	AlignBegin=40220|AlignEnd=40630|Gloss=ehn|deprel_main_pred=discourse|head_MST=12|upostag=ADJ
+12	work	work	NOUN	_	_	7	comp:pred	_	AlignBegin=40630|AlignEnd=41170|Gloss=work|deprel_main_pred=parataxis:conj|head_MST=7|upostag=NOUN
+13	]	]	PUNCT	_	_	7	punct	_	AlignBegin=41140|AlignEnd=41170|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+14	//	//	PUNCT	_	_	3	punct	_	AlignBegin=41140|AlignEnd=41170|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__10
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # I tell am sey [ as I dey < me < { I || I } dey learn work ] //
+# text_en = I told him that since I am, I, I am training for a job.
+# text_ortho = I tell am sey as I dey, me, I, I dey learn work.
+# timestamp = 1591368508.167115
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=41170|AlignEnd=42320|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	subj	_	AlignBegin=42320|AlignEnd=42390|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=3|upostag=PRON
+3	tell	tell	VERB	_	_	0	root	_	AlignBegin=42390|AlignEnd=42450|Gloss=tell|deprel_main_pred=root|head_MST=0|upostag=VERB
+4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=42450|AlignEnd=42600|Gloss=ACC.SG.3|deprel_main_pred=comp:obj|head_MST=3|upostag=PRON
+5	sey	sey	SCONJ	_	_	3	comp:obj	_	AlignBegin=42600|AlignEnd=42990|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=3|upostag=SCONJ
+6	[	[	PUNCT	_	_	18	punct	_	AlignBegin=42960|AlignEnd=42990|Gloss=PUNCT|deprel_main_pred=punct|head_MST=18|upostag=PUNCT
+7	as	as	ADP	_	_	18	mod:periph	_	AlignBegin=42990|AlignEnd=43200|Gloss=as|deprel_main_pred=mod:periph|head_MST=18|upostag=ADP
+8	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	subj	_	AlignBegin=43200|AlignEnd=43353|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=9|upostag=PRON
+9	dey	dey	VERB	_	VerbType=Cop	7	comp:obj	_	AlignBegin=43353|AlignEnd=43850|Gloss=be|deprel_main_pred=comp:obj|head_MST=7|upostag=VERB
+10	<	<	PUNCT	_	_	7	punct	_	AlignBegin=43820|AlignEnd=43850|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+11	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	dislocated	_	AlignBegin=43850|AlignEnd=44060|Gloss=NOM.SG.1|deprel_main_pred=dislocated|head_MST=18|upostag=PRON
+12	<	<	PUNCT	_	_	11	punct	_	AlignBegin=44030|AlignEnd=44060|Gloss=PUNCT|deprel_main_pred=punct|head_MST=11|upostag=PUNCT
+13	{	{	PUNCT	_	_	14	punct	_	AlignBegin=44030|AlignEnd=44060|Gloss=PUNCT|deprel_main_pred=punct|head_MST=14|upostag=PUNCT
+14	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	subj	_	AlignBegin=44060|AlignEnd=44550|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=18|upostag=PRON
+15	||	||	PUNCT	_	_	16	punct	_	AlignBegin=44520|AlignEnd=44550|Gloss=PUNCT|deprel_main_pred=punct|head_MST=16|upostag=PUNCT
+16	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	conj:dicto	_	AlignBegin=44550|AlignEnd=44736|Gloss=NOM.SG.1|deprel_main_pred=conj:dicto|head_MST=14|upostag=PRON
+17	}	}	PUNCT	_	_	14	punct	_	AlignBegin=44706|AlignEnd=44736|Gloss=PUNCT|deprel_main_pred=punct|head_MST=14|upostag=PUNCT
+18	dey	dey	AUX	_	Aspect=Imp	5	comp:obj	_	AlignBegin=44736|AlignEnd=44853|Gloss=IPFV|deprel_main_pred=comp:obj|head_MST=5|upostag=AUX
+19	learn	learn	VERB	_	_	18	comp:aux	_	AlignBegin=44853|AlignEnd=45181|Gloss=learn|deprel_main_pred=comp:aux|head_MST=18|upostag=VERB
+20	work	work	NOUN	_	_	19	comp:obj	_	AlignBegin=45181|AlignEnd=45600|Gloss=work|deprel_main_pred=comp:obj|head_MST=19|upostag=NOUN
+21	]	]	PUNCT	_	_	18	punct	_	AlignBegin=45570|AlignEnd=45600|Gloss=PUNCT|deprel_main_pred=punct|head_MST=18|upostag=PUNCT
+22	//	//	PUNCT	_	_	3	punct	_	AlignBegin=45570|AlignEnd=45600|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__11
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # sey { I 'm almo- || I 'm || I 'm || I 'm || I 'm || # I dey || I 'm } getting trough # { em ehn in || ehn in } my work //
+# text_en = That I'm... I'm almo... I'm... I'm... I'm... I'm... I am... I'm getting through in uh... in my work.
+# text_ortho = Sey I'm almo-... I'm... I'm... I'm... I'm... I dey... I'm getting through in, ehn... in my work.
+# timestamp = 1591368508.167118
+1	#	#	PUNCT	_	_	5	punct	_	AlignBegin=45600|AlignEnd=46651|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+2	sey	sey	SCONJ	_	_	5	cc	_	AlignBegin=46651|AlignEnd=46800|Gloss=COMP|deprel_main_pred=cc|head_MST=5|upostag=SCONJ
+3	{	{	PUNCT	_	_	5	punct	_	AlignBegin=46770|AlignEnd=46800|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	subj	_	Gloss=NOM.SG.1|Lang=en|highlight=#4087F0|deprel_main_pred=subj|head_MST=5|upostag=PRON
+5	'm	be	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=46920|AlignEnd=47040|Gloss=I.be.IND.SG.1.PRS.FIN|Lang=en|highlight=#4087F0|deprel_main_pred=root|head_MST=0|upostag=AUX
+6	almo-	X	X	_	_	5	mod@scrap	_	AlignBegin=47040|AlignEnd=47508|Gloss=X|Lang=en|highlight=#4087F0|deprel_main_pred=comp:pred|head_MST=5|upostag=X
+7	||	||	PUNCT	_	_	9	punct	_	AlignBegin=47478|AlignEnd=47508|Gloss=PUNCT|deprel_main_pred=punct|head_MST=9|upostag=PUNCT
+8	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	subj	_	Gloss=NOM.SG.1|Lang=en|highlight=#4087F0|deprel_main_pred=subj|head_MST=9|upostag=PRON
+9	'm	be	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	conj:dicto	_	AlignBegin=47664|AlignEnd=47819|Gloss=I.be.IND.SG.1.PRS.FIN|Lang=en|highlight=#4087F0|deprel_main_pred=conj:dicto|head_MST=5|upostag=AUX
+10	||	||	PUNCT	_	_	12	punct	_	AlignBegin=47789|AlignEnd=47819|Gloss=PUNCT|deprel_main_pred=punct|head_MST=11|upostag=PUNCT
+11	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	subj	_	Gloss=NOM.SG.1|Lang=en|highlight=#4087F0|deprel_main_pred=conj:dicto|head_MST=9|upostag=PRON
+12	'm	be	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	conj:dicto	_	AlignBegin=48114|AlignEnd=48410|Gloss=I.be.IND.SG.1.PRS.FIN|Lang=en|highlight=#4087F0|deprel_main_pred=conj:dicto|head_MST=9|upostag=AUX
+13	||	||	PUNCT	_	_	15	punct	_	AlignBegin=48380|AlignEnd=48410|Gloss=PUNCT|deprel_main_pred=punct|head_MST=15|upostag=PUNCT
+14	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	subj	_	Gloss=NOM.SG.1|Lang=en|highlight=#4087F0|deprel_main_pred=subj@expl|head_MST=15|upostag=PRON
+15	'm	be	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	conj:dicto	_	AlignBegin=48590|AlignEnd=48771|Gloss=I.be.IND.SG.1.PRS.FIN|Lang=en|highlight=#4087F0|deprel_main_pred=conj:dicto|head_MST=11|upostag=AUX
+16	||	||	PUNCT	_	_	18	punct	_	AlignBegin=48741|AlignEnd=48771|Gloss=PUNCT|deprel_main_pred=punct|head_MST=18|upostag=PUNCT
+17	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	subj	_	Gloss=NOM.SG.1|Lang=en|highlight=#4087F0|deprel_main_pred=subj|head_MST=18|upostag=PRON
+18	'm	be	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	conj:dicto	_	AlignBegin=49016|AlignEnd=49260|Gloss=I.be.IND.SG.1.PRS.FIN|Lang=en|highlight=#4087F0|deprel_main_pred=conj:dicto|head_MST=11|upostag=AUX
+19	||	||	PUNCT	_	_	22	punct	_	AlignBegin=49230|AlignEnd=49260|Gloss=PUNCT|deprel_main_pred=punct|head_MST=22|upostag=PUNCT
+20	#	#	PUNCT	_	_	22	punct	_	AlignBegin=49260|AlignEnd=49620|Gloss=PUNCT|deprel_main_pred=punct|head_MST=22|upostag=PUNCT
+21	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	subj	_	AlignBegin=49620|AlignEnd=49708|Gloss=NOM.SG.1|Lang=en|highlight=#4087F0|deprel_main_pred=subj|head_MST=22|upostag=PRON
+22	dey	dey	AUX	_	Aspect=Imp	18	conj:dicto	_	AlignBegin=49708|AlignEnd=49914|Gloss=IPFV|Lang=en|highlight=#4087F0|deprel_main_pred=conj:dicto|head_MST=15|upostag=AUX
+23	||	||	PUNCT	_	_	25	punct	_	AlignBegin=49884|AlignEnd=49914|Gloss=PUNCT|deprel_main_pred=punct|head_MST=25|upostag=PUNCT
+24	I	I	PRON	_	Case=Num|Number=Sing|Person=1|PronType=Prs	25	subj	_	Gloss=NOM.SG.1|Lang=en|highlight=#4087F0|deprel_main_pred=subj|head_MST=25|upostag=PRON
+25	'm	be	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	22	conj:dicto	_	AlignBegin=50057|AlignEnd=50200|Gloss=I.be.IND.SG.1.PRS.FIN|Lang=en|highlight=#4087F0|deprel_main_pred=conj:dicto|head_MST=22|upostag=AUX
+26	}	}	PUNCT	_	_	5	punct	_	AlignBegin=50170|AlignEnd=50200|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+27	getting	get	VERB	_	Tense=Pres|VerbForm=Part	25	comp:aux	_	AlignBegin=50200|AlignEnd=50620|Gloss=get.PRS.PTCP|Lang=en|highlight=#4087F0|deprel_main_pred=comp:aux|head_MST=25|upostag=VERB
+28	trough	trough	ADP	_	_	27	compound:prt	_	AlignBegin=50620|AlignEnd=50900|Gloss=through|Lang=en|highlight=#4087F0|deprel_main_pred=comp:obj@lvc|head_MST=27|upostag=ADJ
+29	#	#	PUNCT	_	_	33	punct	_	AlignBegin=50900|AlignEnd=51840|Gloss=PUNCT|deprel_main_pred=punct|head_MST=33|upostag=PUNCT
+30	{	{	PUNCT	_	_	33	punct	_	AlignBegin=51810|AlignEnd=51840|Gloss=PUNCT|deprel_main_pred=punct|head_MST=33|upostag=PUNCT
+31	em	em	INTJ	_	_	0	root	_	AlignBegin=51840|AlignEnd=52190|Gloss=em|MotNouveau=Yes|deprel_main_pred=discourse|head_MST=27|upostag=X
+32	ehn	ehn	INTJ	_	_	0	root	_	AlignBegin=52190|AlignEnd=52680|Gloss=ehn|MotNouveau=Yes|deprel_main_pred=discourse|head_MST=33|upostag=ADJ
+33	in	in	ADP	_	_	27	comp:obl	_	AlignBegin=52680|AlignEnd=52847|Gloss=in|Lang=en|highlight=#4087F0|deprel_main_pred=mod|head_MST=28|upostag=ADP
+34	||	||	PUNCT	_	_	36	punct	_	AlignBegin=52160|AlignEnd=52190|Gloss=PUNCT|deprel_main_pred=punct|head_MST=36|upostag=PUNCT
+35	ehn	ehn	INTJ	_	_	36	discourse	_	AlignBegin=52847|AlignEnd=53060|Gloss=ehn|Lang=en|highlight=#4087F0|mot=_|noMatch=Yes|deprel_main_pred=discourse|head_MST=36|upostag=ADJ
+36	in	in	ADP	_	_	33	conj:dicto	_	AlignBegin=53060|AlignEnd=53443|Gloss=in|Lang=en|highlight=#4087F0|mot=_|noMatch=Yes|deprel_main_pred=conj:dicto|head_MST=33|upostag=ADP
+37	}	}	PUNCT	_	_	33	punct	_	AlignBegin=52817|AlignEnd=52847|Gloss=PUNCT|deprel_main_pred=punct|head_MST=33|upostag=PUNCT
+38	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	39	mod:poss	_	AlignBegin=53443|AlignEnd=53640|Gloss=SG.1.POSS|Lang=en|highlight=#4087F0|mot=_|noMatch=Yes|deprel_main_pred=mod:poss|head_MST=39|upostag=PRON
+39	work	work	NOUN	_	_	36	comp:obj	_	AlignBegin=53640|AlignEnd=54206|Gloss=work|Lang=en|highlight=#4087F0|mot=_|noMatch=Yes|deprel_main_pred=comp:obj|head_MST=36|upostag=NOUN
+40	//	//	PUNCT	_	_	5	punct	_	AlignBegin=53413|AlignEnd=53443|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__12
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # so # im tell me sey [ mah I con try //= meh e no be sey I just dey dey house # everytime ] //
+# text_en = So he told me I should come and give it a try, so it won't be as if I'm always just staying at home.
+# text_ortho = So im tell me sey mah I con try, meh e no be sey I just dey dey house everytime.
+# timestamp = 1591368508.167121
+1	#	#	PUNCT	_	_	5	punct	_	AlignBegin=54206|AlignEnd=54860|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+2	so	so	ADV	_	_	5	discourse	_	AlignBegin=53640|AlignEnd=54176|Gloss=so|aSupprimer=Yes|deprel_main_pred=discourse|head_MST=5|upostag=ADV
+3	#	#	PUNCT	_	_	2	punct	_	AlignBegin=54206|AlignEnd=54860|Gloss=PUNCT|aSupprimer=Yes|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+4	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	subj	_	AlignBegin=54860|AlignEnd=54952|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=5|upostag=PRON
+5	tell	tell	VERB	_	_	0	root	_	AlignBegin=54952|AlignEnd=55070|Gloss=tell|deprel_main_pred=root|head_MST=0|upostag=VERB
+6	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	comp:obj	_	AlignBegin=55070|AlignEnd=55200|Gloss=ACC.SG.1|deprel_main_pred=comp:obj|head_MST=5|upostag=PRON
+7	sey	sey	SCONJ	_	_	5	comp:obj	_	AlignBegin=55200|AlignEnd=55360|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=5|upostag=SCONJ
+8	[	[	PUNCT	_	_	9	punct	_	AlignBegin=55330|AlignEnd=55360|Gloss=PUNCT|deprel_main_pred=punct|head_MST=9|upostag=PUNCT
+9	mah	make	AUX	_	Mood=Opt	7	comp:obj	_	AlignBegin=55360|AlignEnd=55498|Gloss=SBJV|levenshtein=Yes|mot=mey|deprel_main_pred=comp:obj|head_MST=7|upostag=AUX
+10	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	subj	_	AlignBegin=55498|AlignEnd=55603|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=11|upostag=PRON
+11	con	con	AUX	_	Aspect=Cons	9	comp:aux	_	AlignBegin=55603|AlignEnd=55860|Gloss=CONS|deprel_main_pred=comp:aux|head_MST=9|upostag=AUX
+12	try	try	VERB	_	_	11	comp:aux	_	AlignBegin=55860|AlignEnd=56402|Gloss=try|deprel_main_pred=comp:aux|head_MST=11|upostag=VERB
+13	//=	//=	PUNCT	_	_	14	punct	_	AlignBegin=56372|AlignEnd=56402|Gloss=PUNCT|deprel_main_pred=punct|head_MST=14|upostag=PUNCT
+14	meh	make	AUX	_	Mood=Opt	9	parataxis:conj	_	AlignBegin=56402|AlignEnd=56659|Gloss=SBJV|levenshtein=Yes|mot=mey|deprel_main_pred=parataxis:conj|head_MST=9|upostag=AUX
+15	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	subj@expl	_	AlignBegin=56659|AlignEnd=56742|Gloss=NOM.SG.3|deprel_main_pred=subj@expl|head_MST=17|upostag=PRON
+16	no	no	PART	_	Polarity=Neg	17	mod	_	AlignBegin=56742|AlignEnd=56890|Gloss=NEG|deprel_main_pred=mod|head_MST=17|upostag=PART
+17	be	be	VERB	_	PartType=Cop	14	comp:aux	_	AlignBegin=56890|AlignEnd=57049|Gloss=be|deprel_main_pred=comp:aux|head_MST=14|upostag=VERB
+18	sey	sey	SCONJ	_	_	17	comp:pred	_	AlignBegin=57049|AlignEnd=57350|Gloss=COMP|deprel_main_pred=comp:pred|head_MST=17|upostag=SCONJ
+19	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	subj	_	AlignBegin=57350|AlignEnd=57500|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=21|upostag=PRON
+20	just	just	ADV	_	_	21	mod	_	AlignBegin=57500|AlignEnd=57830|Gloss=just|deprel_main_pred=mod|head_MST=21|upostag=ADV
+21	dey	dey	AUX	_	Aspect=Imp	18	comp:obj	_	AlignBegin=57830|AlignEnd=57990|Gloss=IPFV|deprel_main_pred=comp:obj|head_MST=18|upostag=AUX
+22	dey	dey	VERB	_	VerbType=Cop	21	comp:aux	_	AlignBegin=57990|AlignEnd=58241|Gloss=be|deprel_main_pred=comp:aux|head_MST=21|upostag=VERB
+23	house	house	NOUN	_	_	22	comp:pred	_	AlignBegin=58241|AlignEnd=58840|Gloss=house|deprel_main_pred=comp:pred|head_MST=22|upostag=NOUN
+24	#	#	PUNCT	_	_	25	punct	_	AlignBegin=58840|AlignEnd=59760|Gloss=PUNCT|deprel_main_pred=punct|head_MST=25|upostag=PUNCT
+25	everytime	everytime	ADV	_	_	22	mod	_	AlignBegin=59760|AlignEnd=60466|Gloss=everytime|deprel_main_pred=mod|head_MST=22|upostag=ADV
+26	]	]	PUNCT	_	_	9	punct	_	AlignBegin=60436|AlignEnd=60466|Gloss=PUNCT|deprel_main_pred=punct|head_MST=9|upostag=PUNCT
+27	//	//	PUNCT	_	_	5	punct	_	AlignBegin=60436|AlignEnd=60466|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__13
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # i tell am sey [ no wahala !//= no wahala !//] //
+# text_en = I told him no problem, no problem!
+# text_ortho = Tell am sey no wahala, no wahala!
+# timestamp = 1591368508.167124
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=60466|AlignEnd=60900|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+2	i	_	_	_	_	0	root	_	AlignBegin=60900|AlignEnd=60940|Gloss=_|Problem=Yes|deprel_main_pred=subj|head_MST=3|upostag=PRON
+3	tell	tell	VERB	_	_	0	root	_	AlignBegin=60940|AlignEnd=61029|Gloss=tell|deprel_main_pred=root|head_MST=0|upostag=VERB
+4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=61029|AlignEnd=61139|Gloss=ACC.SG.3|deprel_main_pred=comp:obj|head_MST=3|upostag=PRON
+5	sey	sey	SCONJ	_	_	3	comp:obj	_	AlignBegin=61139|AlignEnd=61280|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=3|upostag=SCONJ
+6	[	[	PUNCT	_	_	8	punct	_	AlignBegin=61250|AlignEnd=61280|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+7	no	no	PART	_	Polarity=Neg	8	mod	_	AlignBegin=61280|AlignEnd=61521|Gloss=NEG|deprel_main_pred=mod|head_MST=8|upostag=PART
+8	wahala	wahala	NOUN	_	_	5	comp:obj	_	AlignBegin=61521|AlignEnd=61940|Gloss=trouble|deprel_main_pred=comp:obj|head_MST=5|upostag=NOUN
+9	!//=	!//=	PUNCT	_	_	11	punct	_	AlignBegin=61910|AlignEnd=61940|Gloss=PUNCT|deprel_main_pred=punct|head_MST=11|upostag=PUNCT
+10	no	no	PART	_	Polarity=Neg	11	mod	_	AlignBegin=61940|AlignEnd=62173|Gloss=NEG|deprel_main_pred=mod|head_MST=11|upostag=PART
+11	wahala	wahala	NOUN	_	_	8	parataxis:conj	_	AlignBegin=62173|AlignEnd=62520|Gloss=trouble|deprel_main_pred=parataxis:conj|head_MST=8|upostag=NOUN
+12	!//]	!//]	PUNCT	_	_	8	punct	_	AlignBegin=62490|AlignEnd=62520|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+13	//	//	PUNCT	_	_	3	punct	_	AlignBegin=62490|AlignEnd=62520|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__14
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # im tell me sey [ mah I go ] //
+# text_en = He told me I should go.
+# text_ortho = Im tell me sey mah I go.
+# timestamp = 1591368508.167127
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=62520|AlignEnd=63680|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+2	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	subj	_	AlignBegin=63680|AlignEnd=63794|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=3|upostag=PRON
+3	tell	tell	VERB	_	_	0	root	_	AlignBegin=63794|AlignEnd=63923|Gloss=tell|deprel_main_pred=root|head_MST=0|upostag=VERB
+4	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	comp:obj	_	AlignBegin=63923|AlignEnd=64012|Gloss=ACC.SG.1|deprel_main_pred=comp:obj|head_MST=3|upostag=PRON
+5	sey	sey	SCONJ	_	_	3	comp:obj	_	AlignBegin=64012|AlignEnd=64240|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=3|upostag=SCONJ
+6	[	[	PUNCT	_	_	7	punct	_	AlignBegin=64210|AlignEnd=64240|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+7	mah	make	AUX	_	Mood=Opt	5	comp:obj	_	AlignBegin=64240|AlignEnd=64380|Gloss=SBJV|levenshtein=Yes|mot=mey|deprel_main_pred=comp:obj|head_MST=5|upostag=AUX
+8	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	subj	_	AlignBegin=64380|AlignEnd=64510|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=9|upostag=PRON
+9	go	go	VERB	_	_	7	comp:aux	_	AlignBegin=64510|AlignEnd=64890|Gloss=go|deprel_main_pred=comp:aux|head_MST=7|upostag=VERB
+10	]	]	PUNCT	_	_	7	punct	_	AlignBegin=64860|AlignEnd=64890|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+11	//	//	PUNCT	_	_	3	punct	_	AlignBegin=64860|AlignEnd=64890|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__15
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = sey im go call me //
+# text_en = He will call me.
+# text_ortho = Sey im go call me.
+# timestamp = 1591368508.16713
+1	sey	sey	SCONJ	_	_	3	cc	_	AlignBegin=64890|AlignEnd=65370|Gloss=COMP|deprel_main_pred=cc|head_MST=3|upostag=SCONJ
+2	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	subj	_	AlignBegin=65370|AlignEnd=65492|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=3|upostag=PRON
+3	go	go	AUX	_	Aspect=Prosp	0	root	_	AlignBegin=65492|AlignEnd=65658|Gloss=PROSP|deprel_main_pred=root|head_MST=0|upostag=AUX
+4	call	call	VERB	_	_	3	comp:aux	_	AlignBegin=65658|AlignEnd=65930|Gloss=call|deprel_main_pred=comp:aux|head_MST=3|upostag=VERB
+5	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	comp:obj	_	AlignBegin=65930|AlignEnd=66180|Gloss=ACC.SG.1|deprel_main_pred=comp:obj|head_MST=4|upostag=PRON
+6	//	//	PUNCT	_	_	3	punct	_	AlignBegin=66150|AlignEnd=66180|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__16
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # im go hala me { when de || when deir || when manager } # comes back //
+# text_en = He will call me when they... when their... when their manager comes back.
+# text_ortho = Im go hala me when de... when deir... when manager comes back.
+# timestamp = 1591368508.167133
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=66180|AlignEnd=66420|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+2	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	subj	_	AlignBegin=66420|AlignEnd=66510|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=3|upostag=PRON
+3	go	go	AUX	_	Aspect=Prosp	0	root	_	AlignBegin=66510|AlignEnd=66629|Gloss=PROSP|deprel_main_pred=root|head_MST=0|upostag=AUX
+4	hala	hala	VERB	_	_	3	comp:aux	_	AlignBegin=66629|AlignEnd=66940|Gloss=shout|deprel_main_pred=comp:aux|head_MST=3|upostag=VERB
+5	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	comp:obj	_	AlignBegin=66940|AlignEnd=67150|Gloss=ACC.SG.1|deprel_main_pred=comp:obj|head_MST=4|upostag=PRON
+6	{	{	PUNCT	_	_	7	punct	_	AlignBegin=67120|AlignEnd=67150|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+7	when	when	SCONJ	_	PronType=Int	3	mod	_	AlignBegin=67150|AlignEnd=67406|Gloss=when.Q|Lang=en|highlight=#4087F0|deprel_main_pred=mod|head_MST=4|upostag=SCONJ
+8	de	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	unk@scrap	_	AlignBegin=67406|AlignEnd=67720|Gloss=NOM.PL.3|Lang=en|highlight=#4087F0|deprel_main_pred=comp:obj@scrap|head_MST=7|upostag=PRON
+9	||	||	PUNCT	_	_	10	punct	_	AlignBegin=67690|AlignEnd=67720|Gloss=PUNCT|deprel_main_pred=punct|head_MST=10|upostag=PUNCT
+10	when	when	SCONJ	_	PronType=Int	7	conj:dicto	_	AlignBegin=67720|AlignEnd=68000|Gloss=when.Q|Lang=en|highlight=#4087F0|deprel_main_pred=conj:dicto|head_MST=7|upostag=SCONJ
+11	deir	dem	PRON	_	Number=Plur|Person=3|Poss=Yes	10	unk@scrap	_	AlignBegin=68000|AlignEnd=68450|Gloss=PL.3.POSS|Lang=en|highlight=#4087F0|deprel_main_pred=comp:obj@scrap|head_MST=10|upostag=PRON
+12	||	||	PUNCT	_	_	13	punct	_	AlignBegin=68420|AlignEnd=68450|Gloss=PUNCT|deprel_main_pred=punct|head_MST=13|upostag=PUNCT
+13	when	when	SCONJ	_	PronType=Int	10	conj:dicto	_	AlignBegin=68450|AlignEnd=68643|Gloss=when.Q|Lang=en|highlight=#4087F0|deprel_main_pred=conj:dicto|head_MST=10|upostag=SCONJ
+14	manager	manager	NOUN	_	_	17	subj	_	AlignBegin=68643|AlignEnd=69160|Gloss=manager|Lang=en|highlight=#4087F0|deprel_main_pred=subj|head_MST=17|upostag=NOUN
+15	}	}	PUNCT	_	_	14	punct	_	AlignBegin=69130|AlignEnd=69160|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+16	#	#	PUNCT	_	_	14	punct	_	AlignBegin=69160|AlignEnd=69900|Gloss=PUNCT|deprel_main_pred=punct|head_MST=17|upostag=PUNCT
+17	comes	come	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	comp:obj	_	AlignBegin=69900|AlignEnd=70230|Gloss=come.IND.SG.3.PRS.FIN|Lang=en|highlight=#4087F0|deprel_main_pred=comp:obj|head_MST=13|upostag=VERB
+18	back	back	ADV	_	_	17	mod	_	AlignBegin=70230|AlignEnd=70631|Gloss=back|Lang=en|highlight=#4087F0|deprel_main_pred=mod|head_MST=17|upostag=ADV
+19	//	//	PUNCT	_	_	7	punct	_	AlignBegin=70601|AlignEnd=70631|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__17
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # so # I con { dey wait |r dey wait |r dey wait } //
+# text_en = So, I was waiting, waiting, waiting.
+# text_ortho = So I con dey wait, dey wait, dey wait.
+# timestamp = 1591368508.167135
+1	#	#	PUNCT	_	_	5	punct	_	AlignBegin=70631|AlignEnd=70800|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+2	so	so	ADV	_	_	5	discourse	_	AlignBegin=70800|AlignEnd=71240|Gloss=so|deprel_main_pred=discourse|head_MST=5|upostag=ADV
+3	#	#	PUNCT	_	_	2	punct	_	AlignBegin=71240|AlignEnd=72200|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	subj	_	AlignBegin=72200|AlignEnd=72380|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=5|upostag=PRON
+5	con	con	AUX	_	Aspect=Cons	0	root	_	AlignBegin=72380|AlignEnd=72820|Gloss=CONS|deprel_main_pred=root|head_MST=0|upostag=AUX
+6	{	{	PUNCT	_	_	7	punct	_	AlignBegin=72790|AlignEnd=72820|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+7	dey	dey	AUX	_	Aspect=Imp	5	comp:aux	_	AlignBegin=72820|AlignEnd=73058|Gloss=IPFV|deprel_main_pred=comp:aux|head_MST=5|upostag=AUX
+8	wait	wait	VERB	_	_	7	comp:aux	_	AlignBegin=73058|AlignEnd=73370|Gloss=wait|deprel_main_pred=comp:aux|head_MST=7|upostag=VERB
+9	|r	|r	PUNCT	_	_	10	punct	_	AlignBegin=73340|AlignEnd=73370|Gloss=PUNCT|deprel_main_pred=punct|head_MST=10|upostag=PUNCT
+10	dey	dey	AUX	_	Aspect=Imp	7	compound:redup	_	AlignBegin=73370|AlignEnd=73490|Gloss=IPFV|deprel_main_pred=compound:redup|head_MST=7|upostag=AUX
+11	wait	wait	VERB	_	_	10	comp:aux	_	AlignBegin=73490|AlignEnd=73810|Gloss=wait|deprel_main_pred=comp:aux|head_MST=10|upostag=VERB
+12	|r	|r	PUNCT	_	_	13	punct	_	AlignBegin=73780|AlignEnd=73810|Gloss=PUNCT|deprel_main_pred=punct|head_MST=13|upostag=PUNCT
+13	dey	dey	AUX	_	Aspect=Imp	10	compound:redup	_	AlignBegin=73810|AlignEnd=73960|Gloss=IPFV|deprel_main_pred=compound:redup|head_MST=10|upostag=AUX
+14	wait	wait	VERB	_	_	13	comp:aux	_	AlignBegin=73960|AlignEnd=74540|Gloss=wait|deprel_main_pred=comp:aux|head_MST=13|upostag=VERB
+15	}	}	PUNCT	_	_	7	punct	_	AlignBegin=74510|AlignEnd=74540|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+16	//	//	PUNCT	_	_	5	punct	_	AlignBegin=74510|AlignEnd=74540|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__18
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # I no con see im call //
+# text_en = I didn’t get a call from him.
+# text_ortho = I no con see im call.
+# timestamp = 1591368508.167138
+1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=74540|AlignEnd=75790|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	subj	_	AlignBegin=75790|AlignEnd=75920|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=4|upostag=PRON
+3	no	no	PART	_	Polarity=Neg	4	mod	_	AlignBegin=75920|AlignEnd=76080|Gloss=NEG|deprel_main_pred=mod|head_MST=4|upostag=PART
+4	con	con	AUX	_	Aspect=Cons	0	root	_	AlignBegin=76080|AlignEnd=76460|Gloss=CONS|deprel_main_pred=root|head_MST=0|upostag=AUX
+5	see	see	VERB	_	_	4	comp:aux	_	AlignBegin=76460|AlignEnd=76840|Gloss=see|deprel_main_pred=comp:aux|head_MST=4|upostag=VERB
+6	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	mod:poss	_	AlignBegin=76840|AlignEnd=76970|Gloss=NOM.SG.3|deprel_main_pred=mod:poss|head_MST=7|upostag=PRON
+7	call	call	NOUN	_	_	5	comp:obj	_	AlignBegin=76970|AlignEnd=77320|Gloss=call|deprel_main_pred=comp:obj|head_MST=5|upostag=NOUN
+8	//	//	PUNCT	_	_	4	punct	_	AlignBegin=77290|AlignEnd=77320|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__19
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # I call am //
+# text_en = I called him.
+# text_ortho = I call am.
+# timestamp = 1591368508.167141
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=77320|AlignEnd=77690|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	subj	_	AlignBegin=77690|AlignEnd=77854|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=3|upostag=PRON
+3	call	call	VERB	_	_	0	root	_	AlignBegin=77854|AlignEnd=78100|Gloss=call|deprel_main_pred=root|head_MST=0|upostag=VERB
+4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=78100|AlignEnd=78320|Gloss=ACC.SG.3|deprel_main_pred=comp:obj|head_MST=3|upostag=PRON
+5	//	//	PUNCT	_	_	3	punct	_	AlignBegin=78290|AlignEnd=78320|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__20
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # I tell am sey [ how far now ?//] //
+# text_en = I said "how far now?"
+# text_ortho = I tell am sey how far now?
+# timestamp = 1591368508.167144
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=78320|AlignEnd=79420|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	subj	_	AlignBegin=79420|AlignEnd=79470|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=3|upostag=PRON
+3	tell	tell	VERB	_	_	0	root	_	AlignBegin=79470|AlignEnd=79530|Gloss=tell|deprel_main_pred=root|head_MST=0|upostag=VERB
+4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=79530|AlignEnd=79659|Gloss=ACC.SG.3|deprel_main_pred=comp:obj|head_MST=3|upostag=PRON
+5	sey	sey	SCONJ	_	_	3	comp:obj	_	AlignBegin=79659|AlignEnd=79790|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=3|upostag=SCONJ
+6	[	[	PUNCT	_	_	8	punct	_	AlignBegin=79760|AlignEnd=79790|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+7	how	how	ADV	_	PronType=Int	8	mod	_	AlignBegin=79790|AlignEnd=79971|Gloss=how.Q|deprel_main_pred=comp:obj|head_MST=5|upostag=ADV
+8	far	far	ADV	_	_	5	comp:obj	_	AlignBegin=79971|AlignEnd=80200|Gloss=far|deprel_main_pred=comp:cleft|head_MST=7|upostag=ADV
+9	now	now	ADV	_	_	8	mod:emph	_	AlignBegin=80200|AlignEnd=80649|Gloss=now|deprel_main_pred=mod:emph|head_MST=8|upostag=ADV
+10	?//]	?//]	PUNCT	_	_	8	punct	_	AlignBegin=80619|AlignEnd=80649|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+11	//	//	PUNCT	_	_	3	punct	_	AlignBegin=80619|AlignEnd=80649|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__21
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # e tell me sey [ mah I just relax ] //
+# text_en = He told me I should just relax.
+# text_ortho = E tell me sey mah I just relax.
+# timestamp = 1591368508.167146
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=80649|AlignEnd=81460|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+2	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	subj	_	AlignBegin=81460|AlignEnd=81500|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=3|upostag=PRON
+3	tell	tell	VERB	_	_	0	root	_	AlignBegin=81500|AlignEnd=81560|Gloss=tell|deprel_main_pred=root|head_MST=0|upostag=VERB
+4	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	comp:obj	_	AlignBegin=81560|AlignEnd=81654|Gloss=ACC.SG.1|deprel_main_pred=comp:obj|head_MST=3|upostag=PRON
+5	sey	sey	SCONJ	_	_	3	comp:obj	_	AlignBegin=81654|AlignEnd=81860|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=3|upostag=SCONJ
+6	[	[	PUNCT	_	_	7	punct	_	AlignBegin=81830|AlignEnd=81860|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+7	mah	make	AUX	_	Mood=Opt	5	comp:obj	_	AlignBegin=81860|AlignEnd=82047|Gloss=SBJV|levenshtein=Yes|mot=mey|deprel_main_pred=comp:obj|head_MST=5|upostag=AUX
+8	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	subj	_	AlignBegin=82047|AlignEnd=82170|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=10|upostag=PRON
+9	just	just	ADV	_	_	10	mod	_	AlignBegin=82170|AlignEnd=82383|Gloss=just|deprel_main_pred=mod|head_MST=10|upostag=ADV
+10	relax	relax	VERB	_	_	7	comp:aux	_	AlignBegin=82383|AlignEnd=82908|Gloss=relax|deprel_main_pred=comp:aux|head_MST=7|upostag=VERB
+11	]	]	PUNCT	_	_	7	punct	_	AlignBegin=82878|AlignEnd=82908|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+12	//	//	PUNCT	_	_	3	punct	_	AlignBegin=82878|AlignEnd=82908|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__22
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = sey { di work || di work } go soon # prepare imsef //
+# text_en = That the work... the work would soon be ready.
+# text_ortho = Sey di work... di work go soon prepare imsef.
+# timestamp = 1591368508.167149
+1	sey	sey	SCONJ	_	_	9	cc	_	AlignBegin=82908|AlignEnd=83400|Gloss=COMP|deprel_main_pred=cc|head_MST=9|upostag=SCONJ
+2	{	{	PUNCT	_	_	4	punct	_	AlignBegin=83370|AlignEnd=83400|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+3	di	di	DET	_	Definite=Def|PronType=Art	4	det	_	AlignBegin=83400|AlignEnd=83577|Gloss=DEF.ART|deprel_main_pred=det|head_MST=4|upostag=DET
+4	work	work	NOUN	_	_	9	subj	_	AlignBegin=83577|AlignEnd=83916|Gloss=work|deprel_main_pred=subj|head_MST=9|upostag=NOUN
+5	||	||	PUNCT	_	_	7	punct	_	AlignBegin=83886|AlignEnd=83916|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+6	di	di	DET	_	Definite=Def|PronType=Art	7	det	_	AlignBegin=83916|AlignEnd=84220|Gloss=DEF.ART|deprel_main_pred=det|head_MST=7|upostag=DET
+7	work	work	NOUN	_	_	4	conj:dicto	_	AlignBegin=84220|AlignEnd=84459|Gloss=work|deprel_main_pred=conj:dicto|head_MST=4|upostag=NOUN
+8	}	}	PUNCT	_	_	4	punct	_	AlignBegin=84429|AlignEnd=84459|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+9	go	go	AUX	_	Aspect=Prosp	0	root	_	AlignBegin=84459|AlignEnd=84690|Gloss=PROSP|deprel_main_pred=root|head_MST=0|upostag=AUX
+10	soon	soon	ADV	_	_	12	mod	_	AlignBegin=84690|AlignEnd=85400|Gloss=soon|deprel_main_pred=mod|head_MST=12|upostag=ADV
+11	#	#	PUNCT	_	_	12	punct	_	AlignBegin=85400|AlignEnd=85950|Gloss=PUNCT|deprel_main_pred=punct|head_MST=12|upostag=PUNCT
+12	prepare	prepare	VERB	_	_	9	comp:aux	_	AlignBegin=85950|AlignEnd=86270|Gloss=prepare|deprel_main_pred=comp:aux|head_MST=9|upostag=VERB
+13	imsef	imsef	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	12	comp:obj	_	AlignBegin=86270|AlignEnd=86799|Gloss=ACC.M.SG.3.REFL|deprel_main_pred=comp:obj|head_MST=12|upostag=PRON
+14	//	//	PUNCT	_	_	9	punct	_	AlignBegin=86769|AlignEnd=86799|Gloss=PUNCT|deprel_main_pred=punct|head_MST=9|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__23
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # mtschew I tell am sey [ nna omo me < I too dey here //] //
+# text_en = Mstchew, I told him that <igbo> nna omo me <igbo> no problem.
+# text_ortho = Mstchew I tell am sey nna omo me, I too dey here.
+# timestamp = 1591368508.167152
+1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=86799|AlignEnd=86971|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+2	mtschew	mtschew	INTJ	_	_	4	discourse	_	AlignBegin=86971|AlignEnd=87280|Gloss=sucking_of_teeth|levenshtein=Yes|mot=mstchew|deprel_main_pred=discourse|head_MST=4|upostag=ADJ
+3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	subj	_	AlignBegin=87280|AlignEnd=87410|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=4|upostag=PRON
+4	tell	tell	VERB	_	_	0	root	_	AlignBegin=87410|AlignEnd=87470|Gloss=tell|deprel_main_pred=root|head_MST=0|upostag=VERB
+5	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	comp:obj	_	AlignBegin=87470|AlignEnd=87635|Gloss=ACC.SG.3|deprel_main_pred=comp:obj|head_MST=4|upostag=PRON
+6	sey	sey	SCONJ	_	_	4	comp:obj	_	AlignBegin=87635|AlignEnd=87885|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=4|upostag=SCONJ
+7	[	[	PUNCT	_	_	14	punct	_	AlignBegin=87855|AlignEnd=87885|Gloss=PUNCT|deprel_main_pred=punct|head_MST=14|upostag=PUNCT
+8	nna	nna	PART	_	_	14	discourse	_	AlignBegin=87885|AlignEnd=88160|Gloss=father|deprel_main_pred=discourse|head_MST=14|upostag=PART
+9	omo	omo	INTJ	_	_	14	discourse	_	AlignBegin=88160|AlignEnd=88410|Gloss=man|deprel_main_pred=vocative|head_MST=8|upostag=ADP
+10	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	14	dislocated	_	AlignBegin=88410|AlignEnd=88550|Gloss=ACC.SG.1|deprel_main_pred=comp:obj|head_MST=9|upostag=PRON
+11	<	<	PUNCT	_	_	10	punct	_	AlignBegin=88520|AlignEnd=88550|Gloss=PUNCT|deprel_main_pred=punct|head_MST=10|upostag=PUNCT
+12	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	subj	_	AlignBegin=88550|AlignEnd=88690|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=14|upostag=PRON
+13	too	too	ADV	_	_	14	mod	_	AlignBegin=88690|AlignEnd=88880|Gloss=too|deprel_main_pred=mod|head_MST=14|upostag=ADV
+14	dey	dey	VERB	_	VerbType=Cop	6	comp:obj	_	AlignBegin=88880|AlignEnd=89170|Gloss=be|deprel_main_pred=comp:obj|head_MST=6|upostag=VERB
+15	here	here	ADV	_	_	14	comp:pred	_	AlignBegin=89170|AlignEnd=89360|Gloss=here|deprel_main_pred=comp:pred|head_MST=14|upostag=ADV
+16	//]	//]	PUNCT	_	_	14	punct	_	AlignBegin=89330|AlignEnd=89360|Gloss=PUNCT|deprel_main_pred=punct|head_MST=14|upostag=PUNCT
+17	//	//	PUNCT	_	_	4	punct	_	AlignBegin=89330|AlignEnd=89360|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__24
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # as I dey house < work no dey dey for di place wey I dey learn work //
+# text_en = As I was at home, there was no work at the place I was doing my training.
+# text_ortho = As I dey house, work no dey dey for di place wey I dey learn work.
+# timestamp = 1591368508.167155
+1	#	#	PUNCT	_	_	9	punct	_	AlignBegin=89360|AlignEnd=89680|Gloss=PUNCT|deprel_main_pred=punct|head_MST=9|upostag=PUNCT
+2	as	as	ADP	_	_	9	mod:periph	_	AlignBegin=89680|AlignEnd=89750|Gloss=as|deprel_main_pred=mod:periph|head_MST=9|upostag=ADP
+3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	subj	_	AlignBegin=89750|AlignEnd=89881|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=4|upostag=PRON
+4	dey	dey	VERB	_	VerbType=Cop	2	comp:obj	_	AlignBegin=89881|AlignEnd=90090|Gloss=be|deprel_main_pred=comp:obj|head_MST=2|upostag=VERB
+5	house	house	NOUN	_	_	4	comp:pred	_	AlignBegin=90090|AlignEnd=90692|Gloss=house|deprel_main_pred=comp:pred|head_MST=4|upostag=NOUN
+6	<	<	PUNCT	_	_	2	punct	_	AlignBegin=90662|AlignEnd=90692|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+7	work	work	NOUN	_	_	9	subj	_	AlignBegin=90692|AlignEnd=91060|Gloss=work|deprel_main_pred=subj|head_MST=9|upostag=NOUN
+8	no	no	PART	_	Polarity=Neg	9	mod	_	AlignBegin=91060|AlignEnd=91220|Gloss=NEG|deprel_main_pred=mod|head_MST=9|upostag=PART
+9	dey	dey	AUX	_	Aspect=Imp	0	root	_	AlignBegin=91220|AlignEnd=91368|Gloss=IPFV|deprel_main_pred=root|head_MST=0|upostag=VERB
+10	dey	dey	VERB	_	VerbType=Cop	9	comp:aux	_	AlignBegin=91368|AlignEnd=91930|Gloss=be|deprel_main_pred=comp:obj@x|head_MST=9|upostag=VERB
+11	for	for	ADP	_	_	10	comp:pred	_	AlignBegin=91930|AlignEnd=92200|Gloss=for|deprel_main_pred=comp:pred|head_MST=10|upostag=ADP
+12	di	di	DET	_	Definite=Def|PronType=Art	13	det	_	AlignBegin=92200|AlignEnd=92311|Gloss=DEF.ART|deprel_main_pred=det|head_MST=13|upostag=DET
+13	place	place	NOUN	_	_	11	comp:obj	_	AlignBegin=92311|AlignEnd=92670|Gloss=place|deprel_main_pred=comp:obj|head_MST=11|upostag=NOUN
+14	wey	wey	SCONJ	_	_	13	mod@relcl	_	AlignBegin=92670|AlignEnd=92750|Gloss=REL|deprel_main_pred=mod@relcl|head_MST=13|upostag=SCONJ
+15	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	subj	_	AlignBegin=92750|AlignEnd=92950|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=16|upostag=PRON
+16	dey	dey	AUX	_	Aspect=Imp	14	comp:obj	_	AlignBegin=92950|AlignEnd=93060|Gloss=IPFV|deprel_main_pred=comp:obj|head_MST=14|upostag=AUX
+17	learn	learn	VERB	_	_	16	comp:aux	_	AlignBegin=93060|AlignEnd=93357|Gloss=learn|deprel_main_pred=comp:aux|head_MST=16|upostag=VERB
+18	work	work	NOUN	_	_	17	comp:obj	_	AlignBegin=93357|AlignEnd=93658|Gloss=work|deprel_main_pred=comp:obj|head_MST=17|upostag=NOUN
+19	//	//	PUNCT	_	_	9	punct	_	AlignBegin=93628|AlignEnd=93658|Gloss=PUNCT|deprel_main_pred=punct|head_MST=9|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__25
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = we no dey too get work //
+# text_en = We generally don’t have any work to do.
+# text_ortho = We no dey too get work.
+# timestamp = 1591368508.167158
+1	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	subj	_	AlignBegin=93658|AlignEnd=93802|Gloss=NOM.PL.1|deprel_main_pred=subj|head_MST=3|upostag=PRON
+2	no	no	PART	_	Polarity=Neg	3	mod	_	AlignBegin=93802|AlignEnd=94040|Gloss=NEG|deprel_main_pred=mod|head_MST=3|upostag=PART
+3	dey	dey	AUX	_	Aspect=Imp	0	root	_	AlignBegin=94040|AlignEnd=94176|Gloss=IPFV|deprel_main_pred=root|head_MST=0|upostag=AUX
+4	too	too	ADV	_	_	5	mod	_	AlignBegin=94176|AlignEnd=94497|Gloss=too|deprel_main_pred=mod|head_MST=5|upostag=ADV
+5	get	get	VERB	_	_	3	comp:aux	_	AlignBegin=94497|AlignEnd=94760|Gloss=get|deprel_main_pred=comp:aux|head_MST=3|upostag=VERB
+6	work	work	NOUN	_	_	5	comp:obj	_	AlignBegin=94760|AlignEnd=95245|Gloss=work|deprel_main_pred=comp:obj|head_MST=5|upostag=NOUN
+7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=95215|AlignEnd=95245|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__26
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # mtschew so I tell am sey [ no wahala now //= mah I dey look you now //] //
+# text_en = Mstchew, so I told him, "no problem now, I'll keep waiting for you now."
+# text_ortho = Mstchew so I tell am sey "no wahala now, mah I dey look you now."
+# timestamp = 1591368508.16716
+1	#	#	PUNCT	_	_	5	punct	_	AlignBegin=95245|AlignEnd=96440|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+2	mtschew	mtschew	INTJ	_	_	5	discourse	_	AlignBegin=96440|AlignEnd=96596|Gloss=sucking_of_teeth|levenshtein=Yes|mot=mstchew|deprel_main_pred=discourse|head_MST=5|upostag=ADJ
+3	so	so	ADV	_	_	5	discourse	_	AlignBegin=96596|AlignEnd=96730|Gloss=so|deprel_main_pred=discourse|head_MST=5|upostag=ADV
+4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	subj	_	AlignBegin=96730|AlignEnd=96800|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=5|upostag=PRON
+5	tell	tell	VERB	_	_	0	root	_	AlignBegin=96800|AlignEnd=97010|Gloss=tell|deprel_main_pred=root|head_MST=0|upostag=VERB
+6	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	comp:obj	_	AlignBegin=97010|AlignEnd=97170|Gloss=ACC.SG.3|deprel_main_pred=comp:obj|head_MST=5|upostag=PRON
+7	sey	sey	SCONJ	_	_	5	comp:obj	_	AlignBegin=97170|AlignEnd=97700|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=5|upostag=SCONJ
+8	[	[	PUNCT	_	_	10	punct	_	AlignBegin=97670|AlignEnd=97700|Gloss=PUNCT|deprel_main_pred=punct|head_MST=10|upostag=PUNCT
+9	no	no	PART	_	Polarity=Neg	10	mod	_	AlignBegin=97700|AlignEnd=97873|Gloss=NEG|deprel_main_pred=mod|head_MST=10|upostag=PART
+10	wahala	wahala	NOUN	_	_	7	comp:obj	_	AlignBegin=97873|AlignEnd=98252|Gloss=trouble|deprel_main_pred=comp:obj|head_MST=7|upostag=NOUN
+11	now	now	ADV	_	_	10	discourse	_	AlignBegin=98252|AlignEnd=98510|Gloss=now|deprel_main_pred=mod:emph|head_MST=10|upostag=ADV
+12	//=	//=	PUNCT	_	_	13	punct	_	AlignBegin=98480|AlignEnd=98510|Gloss=PUNCT|deprel_main_pred=punct|head_MST=13|upostag=PUNCT
+13	mah	make	AUX	_	Mood=Opt	10	parataxis:conj	_	AlignBegin=98510|AlignEnd=98657|Gloss=SBJV|levenshtein=Yes|mot=mey|deprel_main_pred=parataxis:conj|head_MST=10|upostag=AUX
+14	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	subj	_	AlignBegin=98657|AlignEnd=98759|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=15|upostag=PRON
+15	dey	dey	AUX	_	Aspect=Imp	13	comp:aux	_	AlignBegin=98759|AlignEnd=98887|Gloss=IPFV|deprel_main_pred=comp:aux|head_MST=13|upostag=AUX
+16	look	look	VERB	_	_	15	comp:aux	_	AlignBegin=98887|AlignEnd=99150|Gloss=look|deprel_main_pred=comp:aux|head_MST=15|upostag=VERB
+17	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	16	comp:obj	_	AlignBegin=99150|AlignEnd=99380|Gloss=NOM.2|deprel_main_pred=comp:obj|head_MST=16|upostag=PRON
+18	now	now	ADV	_	_	16	discourse	_	AlignBegin=99380|AlignEnd=99640|Gloss=now|deprel_main_pred=mod|head_MST=16|upostag=ADV
+19	//]	//]	PUNCT	_	_	10	punct	_	AlignBegin=99610|AlignEnd=99640|Gloss=PUNCT|deprel_main_pred=punct|head_MST=10|upostag=PUNCT
+20	//	//	PUNCT	_	_	5	punct	_	AlignBegin=99610|AlignEnd=99640|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__27
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # im con take like # ( mah I just say ) # for a month //
+# text_en = Then it took like (let's just say) a month.
+# text_ortho = Im con take like (mah I just say) for a month.
+# timestamp = 1591368508.167163
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=99640|AlignEnd=100250|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+2	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	subj	_	AlignBegin=100250|AlignEnd=100450|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=3|upostag=PRON
+3	con	con	AUX	_	Aspect=Cons	0	root	_	AlignBegin=100450|AlignEnd=100910|Gloss=CONS|deprel_main_pred=root|head_MST=0|upostag=AUX
+4	take	take	VERB	_	_	3	comp:aux	_	AlignBegin=100910|AlignEnd=101320|Gloss=take|deprel_main_pred=comp:aux|head_MST=3|upostag=VERB
+5	like	like	ADP	_	_	14	discourse	_	AlignBegin=101320|AlignEnd=101970|Gloss=like|deprel_main_pred=comp:obj|head_MST=4|upostag=ADP
+6	#	#	PUNCT	_	_	8	punct	_	AlignBegin=101970|AlignEnd=102640|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+7	(	(	PUNCT	_	_	8	punct	_	AlignBegin=101970|AlignEnd=102640|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+8	mah	make	AUX	_	Mood=Opt	5	parataxis:parenth	_	AlignBegin=102640|AlignEnd=102710|Gloss=SBJV|levenshtein=Yes|mot=mey|deprel_main_pred=parataxis:parenth|head_MST=5|upostag=AUX
+9	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	subj	_	AlignBegin=102710|AlignEnd=102790|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=11|upostag=PRON
+10	just	just	ADV	_	_	11	mod	_	AlignBegin=102790|AlignEnd=102960|Gloss=just|deprel_main_pred=mod|head_MST=11|upostag=ADV
+11	say	say	VERB	_	_	8	comp:aux	_	AlignBegin=102960|AlignEnd=103516|Gloss=say|deprel_main_pred=comp:aux|head_MST=8|upostag=VERB
+12	)	)	PUNCT	_	_	8	punct	_	AlignBegin=103516|AlignEnd=104440|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+13	#	#	PUNCT	_	_	14	punct	_	AlignBegin=103516|AlignEnd=104440|Gloss=PUNCT|deprel_main_pred=punct|head_MST=14|upostag=PUNCT
+14	for	for	ADP	_	_	4	comp:obl	_	AlignBegin=104440|AlignEnd=104834|Gloss=for|deprel_main_pred=comp:obl|head_MST=4|upostag=ADP
+15	a	a	DET	_	Definite=Ind|PronType=Art	16	det	_	AlignBegin=104834|AlignEnd=105070|Gloss=INDF.ART|deprel_main_pred=det|head_MST=16|upostag=DET
+16	month	month	NOUN	_	_	14	comp:obj	_	AlignBegin=105070|AlignEnd=105723|Gloss=month|deprel_main_pred=comp:obj|head_MST=14|upostag=NOUN
+17	//	//	PUNCT	_	_	3	punct	_	AlignBegin=105693|AlignEnd=105723|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__28
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = let me just say { a month |c or three weeks } //
+# text_en = Let's just say a month, or three weeks.
+# text_ortho = Let me just say a month, or three weeks.
+# timestamp = 1591368508.167166
+1	let	let	VERB	_	_	0	root	_	AlignBegin=105723|AlignEnd=105860|Gloss=let|Lang=en|highlight=#4087F0|deprel_main_pred=root|head_MST=0|upostag=VERB
+2	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	subj	_	AlignBegin=105860|AlignEnd=105970|Gloss=ACC.SG.1|Lang=en|highlight=#4087F0|deprel_main_pred=comp:obj|head_MST=1|upostag=PRON
+3	just	just	ADV	_	_	4	mod	_	AlignBegin=105970|AlignEnd=106070|Gloss=just|Lang=en|highlight=#4087F0|deprel_main_pred=mod|head_MST=4|upostag=ADV
+4	say	say	VERB	_	_	1	comp:obj@x	_	AlignBegin=106070|AlignEnd=106270|Gloss=say|Lang=en|highlight=#4087F0|deprel_main_pred=comp:obj@x|head_MST=1|upostag=VERB
+5	{	{	PUNCT	_	_	7	punct	_	AlignBegin=106240|AlignEnd=106270|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+6	a	a	DET	_	Definite=Ind|PronType=Art	7	det	_	AlignBegin=106270|AlignEnd=106342|Gloss=INDF.ART|Lang=en|highlight=#4087F0|deprel_main_pred=det|head_MST=7|upostag=DET
+7	month	month	NOUN	_	_	4	comp:obj	_	AlignBegin=106342|AlignEnd=106690|Gloss=month|Lang=en|highlight=#4087F0|deprel_main_pred=parataxis:obj|head_MST=4|upostag=NOUN
+8	|c	|c	PUNCT	_	_	11	punct	_	AlignBegin=106660|AlignEnd=106690|Gloss=PUNCT|deprel_main_pred=punct|head_MST=11|upostag=PUNCT
+9	or	or	CCONJ	_	_	11	cc	_	AlignBegin=106690|AlignEnd=106780|Gloss=or|Lang=en|highlight=#4087F0|deprel_main_pred=cc|head_MST=11|upostag=CCONJ
+10	three	three	NUM	_	NumType=Card	11	det:num	_	AlignBegin=106780|AlignEnd=107020|Gloss=three.CARD|Lang=en|highlight=#4087F0|deprel_main_pred=det:num|head_MST=11|upostag=NUM
+11	weeks	week	NOUN	_	Number=Plur	7	conj:coord	_	AlignBegin=107020|AlignEnd=107400|Gloss=week.PL|Lang=en|highlight=#4087F0|deprel_main_pred=conj:coord|head_MST=7|upostag=NOUN
+12	}	}	PUNCT	_	_	5	punct	_	AlignBegin=107370|AlignEnd=107400|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+13	//	//	PUNCT	_	_	1	punct	_	AlignBegin=107370|AlignEnd=107400|Gloss=PUNCT|deprel_main_pred=punct|head_MST=1|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__29
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # hah !//
+# text_en = Hah!
+# text_ortho = Hah!
+# timestamp = 1591368508.167169
+1	#	#	PUNCT	_	_	2	punct	_	AlignBegin=107400|AlignEnd=108420|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+2	hah	hah	INTJ	_	_	0	root	_	AlignBegin=108420|AlignEnd=108660|Gloss=hah|levenshtein=Yes|mot=ah|deprel_main_pred=root|head_MST=0|upostag=ADJ
+3	!//	!//	PUNCT	_	_	2	punct	_	AlignBegin=108630|AlignEnd=108660|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__30
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # im con call me again o //
+# text_en = Then he called me again.
+# text_ortho = Im con call me again o.
+# timestamp = 1591368508.167172
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=108660|AlignEnd=109320|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+2	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	subj	_	AlignBegin=109320|AlignEnd=109444|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=3|upostag=PRON
+3	con	con	AUX	_	Aspect=Cons	0	root	_	AlignBegin=109444|AlignEnd=109676|Gloss=CONS|deprel_main_pred=root|head_MST=0|upostag=AUX
+4	call	call	VERB	_	_	3	comp:aux	_	AlignBegin=109676|AlignEnd=109906|Gloss=call|deprel_main_pred=comp:aux|head_MST=3|upostag=VERB
+5	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	comp:obj	_	AlignBegin=109906|AlignEnd=110077|Gloss=ACC.SG.1|deprel_main_pred=comp:obj|head_MST=4|upostag=PRON
+6	again	again	ADV	_	_	4	mod	_	AlignBegin=110077|AlignEnd=110484|Gloss=again|deprel_main_pred=mod|head_MST=4|upostag=ADV
+7	o	o	PART	_	PartType=Disc	6	mod:emph	_	AlignBegin=110484|AlignEnd=110655|Gloss=EMPH|deprel_main_pred=mod:emph|head_MST=6|upostag=PART
+8	//	//	PUNCT	_	_	3	punct	_	AlignBegin=110625|AlignEnd=110655|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__31
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # tell me sey [ eh # omo # anoder one don come out o |c sey # na me >+ I go dey for { VIP || # VIP } bar ] //
+# text_en = He told me "uh, my friend, another job has come up, and it's me who would be in the VIP... VIP bar."
+# text_ortho = Tell me sey eh omo anoder one don come out o, sey na me, I go dey for VIP, VIP bar.
+# timestamp = 1591368508.167175
+1	#	#	PUNCT	_	_	2	punct	_	AlignBegin=110655|AlignEnd=110940|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+2	tell	tell	VERB	_	_	0	root	_	AlignBegin=110940|AlignEnd=111055|Gloss=tell|deprel_main_pred=root|head_MST=0|upostag=VERB
+3	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	comp:obl	_	AlignBegin=111055|AlignEnd=111150|Gloss=ACC.SG.1|deprel_main_pred=comp:obl|head_MST=2|upostag=PRON
+4	sey	sey	SCONJ	_	_	2	comp:obj	_	AlignBegin=111150|AlignEnd=111480|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=2|upostag=SCONJ
+5	[	[	PUNCT	_	_	12	punct	_	AlignBegin=111450|AlignEnd=111480|Gloss=PUNCT|deprel_main_pred=punct|head_MST=12|upostag=PUNCT
+6	eh	eh	INTJ	_	_	12	discourse	_	AlignBegin=111480|AlignEnd=111920|Gloss=eh|deprel_main_pred=discourse|head_MST=12|upostag=ADJ
+7	#	#	PUNCT	_	_	6	punct	_	AlignBegin=111920|AlignEnd=112820|Gloss=PUNCT|deprel_main_pred=punct|head_MST=6|upostag=PUNCT
+8	omo	omo	INTJ	_	_	12	discourse	_	AlignBegin=112820|AlignEnd=113420|Gloss=man|deprel_main_pred=discourse|head_MST=12|upostag=ADJ
+9	#	#	PUNCT	_	_	8	punct	_	AlignBegin=113420|AlignEnd=114400|Gloss=PUNCT|deprel_main_pred=punct|head_MST=6|upostag=PUNCT
+10	anoder	anoder	DET	_	_	11	det	_	AlignBegin=114400|AlignEnd=114808|Gloss=another|deprel_main_pred=det|head_MST=11|upostag=DET
+11	one	one	NOUN	_	_	12	subj	_	AlignBegin=114808|AlignEnd=115010|Gloss=one|deprel_main_pred=subj|head_MST=12|upostag=NOUN
+12	don	don	AUX	_	Aspect=Perf	4	comp:obj	_	AlignBegin=115010|AlignEnd=115214|Gloss=PRF|deprel_main_pred=comp:obj|head_MST=4|upostag=AUX
+13	come	come	VERB	_	_	12	comp:aux	_	AlignBegin=115214|AlignEnd=115480|Gloss=come|deprel_main_pred=comp:aux|head_MST=12|upostag=VERB
+14	out	out	ADP	_	_	13	compound:prt	_	AlignBegin=115480|AlignEnd=115830|Gloss=out|deprel_main_pred=compound:prt|head_MST=13|upostag=ADP
+15	o	o	PART	_	PartType=Disc	14	mod:emph	_	AlignBegin=115830|AlignEnd=116053|Gloss=EMPH|deprel_main_pred=mod:emph|head_MST=14|upostag=PART
+16	|c	|c	PUNCT	_	_	19	punct	_	AlignBegin=115830|AlignEnd=116053|Gloss=PUNCT|deprel_main_pred=punct|head_MST=19|upostag=PUNCT
+17	sey	sey	SCONJ	_	_	19	cc	_	AlignBegin=116053|AlignEnd=116720|Gloss=COMP|deprel_main_pred=cc|head_MST=19|upostag=SCONJ
+18	#	#	PUNCT	_	_	19	punct	_	AlignBegin=116720|AlignEnd=117800|Gloss=PUNCT|deprel_main_pred=punct|head_MST=19|upostag=PUNCT
+19	na	na	PART	_	PartType=Cop	12	conj:coord	_	AlignBegin=117800|AlignEnd=118000|Gloss=be|deprel_main_pred=conj:coord|head_MST=12|upostag=PART
+20	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	comp:pred	_	AlignBegin=118000|AlignEnd=118130|Gloss=NOM.SG.1|deprel_main_pred=comp:pred|head_MST=19|upostag=PRON
+21	>+	>+	PUNCT	_	_	23	punct	_	AlignBegin=118100|AlignEnd=118130|Gloss=PUNCT|deprel_main_pred=punct|head_MST=23|upostag=PUNCT
+22	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	23	subj	_	AlignBegin=118130|AlignEnd=118300|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=23|upostag=PRON
+23	go	go	AUX	_	Aspect=Prosp	19	comp:cleft	_	AlignBegin=118300|AlignEnd=118630|Gloss=PROSP|deprel_main_pred=comp:cleft|head_MST=19|upostag=AUX
+24	dey	dey	VERB	_	VerbType=Cop	23	comp:aux	_	AlignBegin=118630|AlignEnd=118940|Gloss=be|deprel_main_pred=comp:aux|head_MST=23|upostag=VERB
+25	for	for	ADP	_	_	24	comp:pred	_	AlignBegin=118940|AlignEnd=119260|Gloss=for|deprel_main_pred=comp:pred|head_MST=24|upostag=ADP
+26	{	{	PUNCT	_	_	27	punct	_	AlignBegin=119230|AlignEnd=119260|Gloss=PUNCT|deprel_main_pred=punct|head_MST=27|upostag=PUNCT
+27	VIP	VIP	NOUN	_	_	32	compound	_	AlignBegin=119260|AlignEnd=119920|Gloss=VIP|deprel_main_pred=mod|head_MST=32|upostag=NOUN
+28	||	||	PUNCT	_	_	30	punct	_	AlignBegin=119890|AlignEnd=119920|Gloss=PUNCT|deprel_main_pred=punct|head_MST=30|upostag=PUNCT
+29	#	#	PUNCT	_	_	30	punct	_	AlignBegin=119920|AlignEnd=121100|Gloss=PUNCT|deprel_main_pred=punct|head_MST=30|upostag=PUNCT
+30	VIP	VIP	NOUN	_	_	27	conj:dicto	_	AlignBegin=121100|AlignEnd=121700|Gloss=VIP|deprel_main_pred=conj:dicto|head_MST=27|upostag=NOUN
+31	}	}	PUNCT	_	_	27	punct	_	AlignBegin=121100|AlignEnd=121700|Gloss=PUNCT|deprel_main_pred=punct|head_MST=27|upostag=PUNCT
+32	bar	bar	NOUN	_	_	25	comp:obj	_	AlignBegin=121700|AlignEnd=122100|Gloss=bar|deprel_main_pred=comp:obj|head_MST=25|upostag=NOUN
+33	]	]	PUNCT	_	_	12	punct	_	AlignBegin=122070|AlignEnd=122100|Gloss=PUNCT|deprel_main_pred=punct|head_MST=12|upostag=PUNCT
+34	//	//	PUNCT	_	_	2	punct	_	AlignBegin=122070|AlignEnd=122100|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__32
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = no be for # normal bar dat side //
+# text_en = Not in the normal bar on that side.
+# text_ortho = No be for normal bar dat side.
+# timestamp = 1591368508.167177
+1	no	no	PART	_	Polarity=Neg	2	mod	_	AlignBegin=122100|AlignEnd=122252|Gloss=NEG|deprel_main_pred=mod|head_MST=2|upostag=PART
+2	be	be	VERB	_	PartType=Cop	0	root	_	AlignBegin=122252|AlignEnd=122390|Gloss=be|deprel_main_pred=root|head_MST=0|upostag=VERB
+3	for	for	ADP	_	_	2	comp:pred	_	AlignBegin=122390|AlignEnd=123029|Gloss=for|deprel_main_pred=comp:pred|head_MST=2|upostag=ADP
+4	#	#	PUNCT	_	_	6	punct	_	AlignBegin=123029|AlignEnd=123820|Gloss=PUNCT|deprel_main_pred=punct|head_MST=6|upostag=PUNCT
+5	normal	normal	ADJ	_	_	6	mod	_	AlignBegin=123820|AlignEnd=124410|Gloss=normal|deprel_main_pred=mod|head_MST=6|upostag=ADJ
+6	bar	bar	NOUN	_	_	3	comp:obj	_	AlignBegin=124410|AlignEnd=124827|Gloss=bar|deprel_main_pred=comp:obj|head_MST=3|upostag=NOUN
+7	dat	dat	DET	_	Number=Sing|PronType=Dem	8	det	_	AlignBegin=124827|AlignEnd=125110|Gloss=SG.DEM|deprel_main_pred=det|head_MST=8|upostag=DET
+8	side	side	NOUN	_	_	2	mod	_	AlignBegin=125110|AlignEnd=125440|Gloss=side|deprel_main_pred=mod|head_MST=6|upostag=NOUN
+9	//	//	PUNCT	_	_	2	punct	_	AlignBegin=125410|AlignEnd=125440|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__33
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # tell am sey [ ha # chey # dat one make sense o //] //
+# text_en = I told him "Hah! Wow! That one makes sense."
+# text_ortho = Tell am sey ha chey dat one make sense o.
+# timestamp = 1591368508.16718
+1	#	#	PUNCT	_	_	2	punct	_	AlignBegin=125440|AlignEnd=126420|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+2	tell	tell	VERB	_	_	0	root	_	AlignBegin=126420|AlignEnd=126510|Gloss=tell|deprel_main_pred=root|head_MST=0|upostag=VERB
+3	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	comp:obj	_	AlignBegin=126510|AlignEnd=126660|Gloss=ACC.SG.3|deprel_main_pred=comp:obj|head_MST=2|upostag=PRON
+4	sey	sey	SCONJ	_	_	2	comp:obj	_	AlignBegin=126660|AlignEnd=126980|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=2|upostag=SCONJ
+5	[	[	PUNCT	_	_	12	punct	_	AlignBegin=126950|AlignEnd=126980|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+6	ha	ha	INTJ	_	_	12	discourse	_	AlignBegin=126980|AlignEnd=127240|Gloss=ha|deprel_main_pred=discourse|head_MST=8|upostag=ADJ
+7	#	#	PUNCT	_	_	6	punct	_	AlignBegin=127240|AlignEnd=127577|Gloss=PUNCT|deprel_main_pred=punct|head_MST=6|upostag=PUNCT
+8	chey	chey	INTJ	_	_	12	discourse	_	AlignBegin=127577|AlignEnd=128140|Gloss=chey|deprel_main_pred=comp:obj|head_MST=4|upostag=AUX
+9	#	#	PUNCT	_	_	12	punct	_	AlignBegin=128140|AlignEnd=128760|Gloss=PUNCT|deprel_main_pred=punct|head_MST=12|upostag=PUNCT
+10	dat	dat	DET	_	Number=Sing|PronType=Dem	11	det	_	AlignBegin=128760|AlignEnd=128962|Gloss=SG.DEM|deprel_main_pred=det|head_MST=11|upostag=DET
+11	one	one	NOUN	_	_	12	subj	_	AlignBegin=128962|AlignEnd=129218|Gloss=one|deprel_main_pred=subj|head_MST=12|upostag=NOUN
+12	make	make	VERB	_	_	4	comp:obj	_	AlignBegin=129218|AlignEnd=129390|Gloss=make|deprel_main_pred=comp:aux|head_MST=8|upostag=VERB
+13	sense	sense	NOUN	_	_	12	comp:obj	_	AlignBegin=129390|AlignEnd=129800|Gloss=sense|deprel_main_pred=comp:obj@lvc|head_MST=12|upostag=NOUN
+14	o	o	PART	_	PartType=Disc	13	mod:emph	_	AlignBegin=129800|AlignEnd=130064|Gloss=EMPH|deprel_main_pred=mod:emph|head_MST=12|upostag=PART
+15	//]	//]	PUNCT	_	_	12	punct	_	AlignBegin=130034|AlignEnd=130064|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+16	//	//	PUNCT	_	_	2	punct	_	AlignBegin=130034|AlignEnd=130064|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__34
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # e be like sey [ { me I || me I } fit { hurry |r hurry |r hurry } { go |c come } do dis one o # cos im tell me sey [ I go just go { relax for AC |a # relax # dey work } ] ] //
+# text_en = It is as if I... I... I, I was in a hurry, hurry, hurry to come and do this one because he told me that I would just go and relax under the AC, I would relax and work.
+# text_ortho = E be like sey me I, me I fit hurry, hurry, hurry go, come do dis one o cos im tell me sey, I go just go relax for AC, relax dey work.
+# timestamp = 1591368508.167182
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=130064|AlignEnd=130980|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+2	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	subj@expl	_	AlignBegin=130980|AlignEnd=131020|Gloss=NOM.SG.3|deprel_main_pred=subj@expl|head_MST=3|upostag=PRON
+3	be	be	VERB	_	PartType=Cop	0	root	_	AlignBegin=131020|AlignEnd=131080|Gloss=be|deprel_main_pred=root|head_MST=0|upostag=VERB
+4	like	like	ADP	_	_	3	comp:pred	_	AlignBegin=131080|AlignEnd=131140|Gloss=like|deprel_main_pred=comp:pred|head_MST=3|upostag=ADP
+5	sey	sey	SCONJ	_	_	4	comp:obj@fixed	_	AlignBegin=131140|AlignEnd=131335|Gloss=COMP|deprel_main_pred=comp:obj@fixed|head_MST=4|upostag=SCONJ
+6	[	[	PUNCT	_	_	14	punct	_	AlignBegin=131305|AlignEnd=131335|Gloss=PUNCT|deprel_main_pred=punct|head_MST=14|upostag=PUNCT
+7	{	{	PUNCT	_	_	8	punct	_	AlignBegin=131305|AlignEnd=131335|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+8	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	dislocated	_	AlignBegin=131335|AlignEnd=131440|Gloss=NOM.SG.1|deprel_main_pred=dislocated|head_MST=14|upostag=PRON
+9	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	unk@scrap	_	AlignBegin=131440|AlignEnd=131896|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=14|upostag=PRON
+10	||	||	PUNCT	_	_	11	punct	_	AlignBegin=131866|AlignEnd=131896|Gloss=PUNCT|deprel_main_pred=punct|head_MST=12|upostag=PUNCT
+11	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	conj:dicto	_	AlignBegin=131896|AlignEnd=131970|Gloss=NOM.SG.1|deprel_main_pred=conj:dicto|head_MST=9|upostag=PRON
+12	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	subj	_	AlignBegin=131970|AlignEnd=132110|Gloss=NOM.SG.1|deprel_main_pred=conj:dicto|head_MST=8|upostag=PRON
+13	}	}	PUNCT	_	_	8	punct	_	AlignBegin=132080|AlignEnd=132110|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+14	fit	fit	AUX	_	Mood=Pot	5	comp:obj	_	AlignBegin=132110|AlignEnd=132500|Gloss=ABIL|mot=_|noMatch=Yes|deprel_main_pred=comp:obj|head_MST=5|upostag=AUX
+15	{	{	PUNCT	_	_	16	punct	_	AlignBegin=132470|AlignEnd=132500|Gloss=PUNCT|deprel_main_pred=punct|head_MST=16|upostag=PUNCT
+16	hurry	hurry	VERB	_	_	14	comp:aux	_	AlignBegin=132500|AlignEnd=132830|Gloss=hurry|deprel_main_pred=comp:aux|head_MST=14|upostag=NOUN
+17	|r	|r	PUNCT	_	_	18	punct	_	AlignBegin=132800|AlignEnd=132830|Gloss=PUNCT|deprel_main_pred=punct|head_MST=18|upostag=PUNCT
+18	hurry	hurry	VERB	_	_	16	compound:redup	_	AlignBegin=132830|AlignEnd=133230|Gloss=hurry|deprel_main_pred=compound:redup|head_MST=16|upostag=NOUN
+19	|r	|r	PUNCT	_	_	20	punct	_	AlignBegin=133200|AlignEnd=133230|Gloss=PUNCT|deprel_main_pred=punct|head_MST=20|upostag=PUNCT
+20	hurry	hurry	VERB	_	_	18	compound:redup	_	AlignBegin=133230|AlignEnd=133602|Gloss=hurry|deprel_main_pred=compound:redup|head_MST=18|upostag=NOUN
+21	}	}	PUNCT	_	_	16	punct	_	AlignBegin=133572|AlignEnd=133602|Gloss=PUNCT|deprel_main_pred=punct|head_MST=16|upostag=PUNCT
+22	{	{	PUNCT	_	_	23	punct	_	AlignBegin=133602|AlignEnd=134251|Gloss=PUNCT|deprel_main_pred=punct|head_MST=23|upostag=PUNCT
+23	go	go	VERB	_	_	20	compound:svc	_	AlignBegin=133602|AlignEnd=134251|Gloss=go|deprel_main_pred=comp:aux|head_MST=14|upostag=VERB
+24	|c	|c	PUNCT	_	_	25	punct	_	AlignBegin=134251|AlignEnd=134530|Gloss=PUNCT|deprel_main_pred=punct|head_MST=25|upostag=PUNCT
+25	come	come	VERB	_	_	23	conj:coord	_	AlignBegin=134251|AlignEnd=134530|Gloss=come|deprel_main_pred=conj:coord|head_MST=23|upostag=VERB
+26	}	}	PUNCT	_	_	23	punct	_	AlignBegin=134251|AlignEnd=134530|Gloss=PUNCT|deprel_main_pred=punct|head_MST=23|upostag=PUNCT
+27	do	do	VERB	_	_	25	comp:obj@x	_	AlignBegin=134530|AlignEnd=134667|Gloss=do|deprel_main_pred=comp:aux|head_MST=25|upostag=VERB
+28	dis	dis	DET	_	Number=Sing|PronType=Dem	29	det	_	AlignBegin=134667|AlignEnd=134898|Gloss=SG.DEM|deprel_main_pred=det|head_MST=29|upostag=DET
+29	one	one	NOUN	_	_	27	comp:obj	_	AlignBegin=134898|AlignEnd=135201|Gloss=one|deprel_main_pred=comp:obj|head_MST=27|upostag=NOUN
+30	o	o	PART	_	PartType=Disc	29	mod:emph	_	AlignBegin=135201|AlignEnd=135333|Gloss=EMPH|deprel_main_pred=mod:emph|head_MST=29|upostag=PART
+31	#	#	PUNCT	_	_	32	punct	_	AlignBegin=135333|AlignEnd=136140|Gloss=PUNCT|deprel_main_pred=punct|head_MST=32|upostag=PUNCT
+32	cos	cos	CCONJ	_	_	27	mod	_	AlignBegin=136140|AlignEnd=136340|Gloss=because|deprel_main_pred=mod|head_MST=27|upostag=ADP
+33	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	34	subj	_	AlignBegin=136340|AlignEnd=136450|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=34|upostag=PRON
+34	tell	tell	VERB	_	_	32	comp:obj	_	AlignBegin=136450|AlignEnd=136687|Gloss=tell|deprel_main_pred=comp:obj|head_MST=32|upostag=VERB
+35	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	34	comp:obj	_	AlignBegin=136687|AlignEnd=136787|Gloss=ACC.SG.1|deprel_main_pred=comp:obl|head_MST=34|upostag=PRON
+36	sey	sey	SCONJ	_	_	34	comp:obj	_	AlignBegin=136787|AlignEnd=137342|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=34|upostag=SCONJ
+37	[	[	PUNCT	_	_	39	punct	_	AlignBegin=137312|AlignEnd=137342|Gloss=PUNCT|deprel_main_pred=punct|head_MST=39|upostag=PUNCT
+38	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	39	subj	_	AlignBegin=137342|AlignEnd=137570|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=39|upostag=PRON
+39	go	go	AUX	_	Aspect=Prosp	36	comp:obj	_	AlignBegin=137570|AlignEnd=137741|Gloss=PROSP|deprel_main_pred=comp:obj|head_MST=36|upostag=AUX
+40	just	just	ADV	_	_	41	mod	_	AlignBegin=137741|AlignEnd=137995|Gloss=just|deprel_main_pred=mod|head_MST=41|upostag=ADV
+41	go	go	VERB	_	_	39	comp:aux	_	AlignBegin=137995|AlignEnd=138246|Gloss=go|deprel_main_pred=comp:aux|head_MST=39|upostag=VERB
+42	{	{	PUNCT	_	_	43	punct	_	AlignBegin=138216|AlignEnd=138246|Gloss=PUNCT|deprel_main_pred=punct|head_MST=43|upostag=PUNCT
+43	relax	relax	VERB	_	_	41	comp:obj@x	_	AlignBegin=138246|AlignEnd=138640|Gloss=relax|deprel_main_pred=comp:obj@x|head_MST=41|upostag=VERB
+44	for	for	ADP	_	_	43	comp:obl	_	AlignBegin=138640|AlignEnd=138860|Gloss=for|deprel_main_pred=comp:obl|head_MST=43|upostag=ADP
+45	AC	AC	NOUN	_	_	44	comp:obj	_	AlignBegin=138860|AlignEnd=139400|Gloss=air_conditioning|deprel_main_pred=comp:obj|head_MST=44|upostag=NOUN
+46	|a	||	PUNCT	_	_	48	punct	_	AlignBegin=139370|AlignEnd=139400|Gloss=PUNCT|deprel_main_pred=punct|head_MST=48|upostag=PUNCT
+47	#	#	PUNCT	_	_	48	punct	_	AlignBegin=139400|AlignEnd=140000|Gloss=PUNCT|deprel_main_pred=punct|head_MST=48|upostag=PUNCT
+48	relax	relax	VERB	_	_	43	conj:appos	_	AlignBegin=140000|AlignEnd=140790|Gloss=relax|deprel_main_pred=conj:dicto|head_MST=43|upostag=VERB
+49	#	#	PUNCT	_	_	50	punct	_	AlignBegin=140790|AlignEnd=141980|Gloss=PUNCT|deprel_main_pred=punct|head_MST=50|upostag=PUNCT
+50	dey	dey	AUX	_	Aspect=Imp	48	mod	_	AlignBegin=141980|AlignEnd=142155|Gloss=IPFV|deprel_main_pred=comp:obj|head_MST=48|upostag=AUX
+51	work	work	VERB	_	_	50	comp:aux	_	AlignBegin=142155|AlignEnd=142640|Gloss=work|deprel_main_pred=comp:aux|head_MST=50|upostag=VERB
+52	}	}	PUNCT	_	_	43	punct	_	AlignBegin=142610|AlignEnd=142640|Gloss=PUNCT|deprel_main_pred=punct|head_MST=43|upostag=PUNCT
+53	]	]	PUNCT	_	_	39	punct	_	AlignBegin=142610|AlignEnd=142640|Gloss=PUNCT|deprel_main_pred=punct|head_MST=39|upostag=PUNCT
+54	]	]	PUNCT	_	_	14	punct	_	AlignBegin=142610|AlignEnd=142640|Gloss=PUNCT|deprel_main_pred=punct|head_MST=14|upostag=PUNCT
+55	//	//	PUNCT	_	_	3	punct	_	AlignBegin=142610|AlignEnd=142640|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__35
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # you understand ?//
+# text_en = Do you understand?
+# text_ortho = You understand?
+# timestamp = 1591368508.167185
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=142640|AlignEnd=143580|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+2	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	3	subj	_	AlignBegin=143580|AlignEnd=143650|Gloss=NOM.2|deprel_main_pred=subj|head_MST=3|upostag=PRON
+3	understand	understand	VERB	_	_	0	root	_	AlignBegin=143650|AlignEnd=144098|Gloss=understand|deprel_main_pred=root|head_MST=0|upostag=VERB
+4	?//	?//	PUNCT	_	_	3	punct	_	AlignBegin=144068|AlignEnd=144098|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__36
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = so # mtschew # naim I tell am sey [ { when || when } I go come ?//] //
+# text_en = So, mstchew, that's how I asked him, "when... when should I come?"
+# text_ortho = So mstchew naim I tell am sey "when... when I go come?"
+# timestamp = 1591368508.167188
+1	so	so	ADV	_	_	7	discourse	_	AlignBegin=144098|AlignEnd=144500|Gloss=so|deprel_main_pred=discourse|head_MST=7|upostag=ADV
+2	#	#	PUNCT	_	_	1	punct	_	AlignBegin=144500|AlignEnd=144680|Gloss=PUNCT|deprel_main_pred=punct|head_MST=1|upostag=PUNCT
+3	mtschew	mtschew	INTJ	_	_	7	discourse	_	AlignBegin=144680|AlignEnd=144880|Gloss=sucking_of_teeth|levenshtein=Yes|mot=mstchew|deprel_main_pred=discourse|head_MST=7|upostag=ADJ
+4	#	#	PUNCT	_	_	3	punct	_	AlignBegin=144880|AlignEnd=146220|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+5	naim	naim	ADV	_	_	7	mod:periph	_	AlignBegin=146220|AlignEnd=146380|Gloss=then|levenshtein=Yes|mot=na|deprel_main_pred=mod:periph|head_MST=7|upostag=ADV
+6	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	subj	_	AlignBegin=146380|AlignEnd=146430|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=7|upostag=PRON
+7	tell	tell	VERB	_	_	0	root	_	AlignBegin=146430|AlignEnd=146640|Gloss=tell|deprel_main_pred=root|head_MST=0|upostag=VERB
+8	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	7	comp:obj	_	AlignBegin=146640|AlignEnd=146782|Gloss=ACC.SG.3|deprel_main_pred=comp:obj|head_MST=7|upostag=PRON
+9	sey	sey	SCONJ	_	_	7	comp:obj	_	AlignBegin=146782|AlignEnd=147010|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=7|upostag=SCONJ
+10	[	[	PUNCT	_	_	12	punct	_	AlignBegin=146980|AlignEnd=147010|Gloss=PUNCT|deprel_main_pred=punct|head_MST=12|upostag=PUNCT
+11	{	{	PUNCT	_	_	12	punct	_	AlignBegin=146980|AlignEnd=147010|Gloss=PUNCT|deprel_main_pred=punct|head_MST=12|upostag=PUNCT
+12	when	when	SCONJ	_	PronType=Int	9	comp:obj	_	AlignBegin=147010|AlignEnd=147560|Gloss=when.Q|deprel_main_pred=comp:obj|head_MST=9|upostag=ADV
+13	||	||	PUNCT	_	_	14	punct	_	AlignBegin=147530|AlignEnd=147560|Gloss=PUNCT|deprel_main_pred=punct|head_MST=14|upostag=PUNCT
+14	when	when	ADV	_	PronType=Int	12	conj:dicto	_	AlignBegin=147560|AlignEnd=147823|Gloss=when.Q|deprel_main_pred=conj:dicto|head_MST=12|upostag=ADV
+15	}	}	PUNCT	_	_	12	punct	_	AlignBegin=147793|AlignEnd=147823|Gloss=PUNCT|deprel_main_pred=punct|head_MST=12|upostag=PUNCT
+16	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	subj	_	AlignBegin=147823|AlignEnd=147955|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=17|upostag=PRON
+17	go	go	AUX	_	Aspect=Prosp	14	comp:cleft	_	AlignBegin=147955|AlignEnd=148148|Gloss=PROSP|deprel_main_pred=mod@relcl|head_MST=14|upostag=AUX
+18	come	come	VERB	_	_	17	comp:aux	_	AlignBegin=148148|AlignEnd=148520|Gloss=come|deprel_main_pred=comp:aux|head_MST=17|upostag=VERB
+19	?//]	?//]	PUNCT	_	_	12	punct	_	AlignBegin=148490|AlignEnd=148520|Gloss=PUNCT|deprel_main_pred=punct|head_MST=12|upostag=PUNCT
+20	//	//	PUNCT	_	_	7	punct	_	AlignBegin=148490|AlignEnd=148520|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__37
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # { im tell || im tell } me sey # [ mah I //] &//
+# text_en = He told... he told me that I should...
+# text_ortho = Im tell... im tell me sey mah I...
+# timestamp = 1591368508.16719
+1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=148520|AlignEnd=149070|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+2	{	{	PUNCT	_	_	4	punct	_	AlignBegin=149040|AlignEnd=149070|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+3	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	subj	_	AlignBegin=149070|AlignEnd=149207|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=4|upostag=PRON
+4	tell	tell	VERB	_	_	0	root	_	AlignBegin=149207|AlignEnd=149418|Gloss=tell|deprel_main_pred=root@scrap|head_MST=0|upostag=VERB
+5	||	||	PUNCT	_	_	7	punct	_	AlignBegin=149388|AlignEnd=149418|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+6	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	subj	_	AlignBegin=149418|AlignEnd=149590|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=7|upostag=PRON
+7	tell	tell	VERB	_	_	4	conj:dicto	_	AlignBegin=149590|AlignEnd=149788|Gloss=tell|deprel_main_pred=conj:dicto|head_MST=4|upostag=VERB
+8	}	}	PUNCT	_	_	7	punct	_	AlignBegin=149758|AlignEnd=149788|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+9	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	comp:obl	_	AlignBegin=149788|AlignEnd=149890|Gloss=ACC.SG.1|deprel_main_pred=comp:obj|head_MST=7|upostag=PRON
+10	sey	sey	SCONJ	_	_	7	comp:obj	_	AlignBegin=149890|AlignEnd=150440|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=7|upostag=SCONJ
+11	#	#	PUNCT	_	_	13	punct	_	AlignBegin=150440|AlignEnd=151300|Gloss=PUNCT|deprel_main_pred=punct|head_MST=13|upostag=PUNCT
+12	[	[	PUNCT	_	_	13	punct	_	AlignBegin=151270|AlignEnd=151300|Gloss=PUNCT|deprel_main_pred=punct|head_MST=13|upostag=PUNCT
+13	mah	make	AUX	_	Mood=Opt	10	comp:obj	_	AlignBegin=151300|AlignEnd=151600|Gloss=SBJV|levenshtein=Yes|mot=mey|deprel_main_pred=comp:obj|head_MST=10|upostag=AUX
+14	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	comp:aux@scrap	_	AlignBegin=151600|AlignEnd=152140|Gloss=NOM.SG.1|deprel_main_pred=punct|head_MST=13|upostag=PRON
+15	//]	//]	PUNCT	_	_	13	punct	_	AlignBegin=152110|AlignEnd=152140|Gloss=PUNCT|deprel_main_pred=punct|head_MST=13|upostag=PUNCT
+16	&//	&//	PUNCT	_	_	4	punct	_	AlignBegin=152110|AlignEnd=152140|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__38
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # sey im go call me when manager # come //
+# text_en = That he would call me when the manager comes.
+# text_ortho = Sey im go call me when manager come.
+# timestamp = 1591368508.167193
+1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=152140|AlignEnd=153613|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+2	sey	sey	SCONJ	_	_	4	cc	_	AlignBegin=153613|AlignEnd=153870|Gloss=COMP|deprel_main_pred=cc|head_MST=4|upostag=SCONJ
+3	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	subj	_	AlignBegin=153870|AlignEnd=154025|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=4|upostag=PRON
+4	go	go	AUX	_	Aspect=Prosp	0	root	_	AlignBegin=154025|AlignEnd=154173|Gloss=PROSP|deprel_main_pred=root|head_MST=0|upostag=AUX
+5	call	call	VERB	_	_	4	comp:aux	_	AlignBegin=154173|AlignEnd=154440|Gloss=call|deprel_main_pred=comp:aux|head_MST=4|upostag=VERB
+6	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	comp:obj	_	AlignBegin=154440|AlignEnd=154600|Gloss=ACC.SG.1|deprel_main_pred=comp:obj|head_MST=5|upostag=PRON
+7	when	when	SCONJ	_	PronType=Int	5	mod	_	AlignBegin=154600|AlignEnd=154761|Gloss=when.Q|deprel_main_pred=mod|head_MST=5|upostag=SCONJ
+8	manager	manager	NOUN	_	_	10	subj	_	AlignBegin=154761|AlignEnd=155400|Gloss=manager|deprel_main_pred=subj|head_MST=10|upostag=NOUN
+9	#	#	PUNCT	_	_	10	punct	_	AlignBegin=155400|AlignEnd=156180|Gloss=PUNCT|deprel_main_pred=punct|head_MST=10|upostag=PUNCT
+10	come	come	VERB	_	_	7	comp:obj	_	AlignBegin=156180|AlignEnd=156460|Gloss=come|deprel_main_pred=comp:obj|head_MST=7|upostag=VERB
+11	//	//	PUNCT	_	_	4	punct	_	AlignBegin=156430|AlignEnd=156460|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__39
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # so as manager come < # im call me |c tell me sey [ mah I come { around || # around } twelve ] //
+# text_en = So as the manager came, he called me, told me that I should come around, around twelve.
+# text_ortho = So as manager come, im call me, tell me sey mah I come around, around twelve.
+# timestamp = 1591368508.167195
+1	#	#	PUNCT	_	_	9	punct	_	AlignBegin=156460|AlignEnd=157180|Gloss=PUNCT|deprel_main_pred=punct|head_MST=9|upostag=PUNCT
+2	so	so	ADV	_	_	9	discourse	_	AlignBegin=157180|AlignEnd=157350|Gloss=so|deprel_main_pred=discourse|head_MST=9|upostag=ADV
+3	as	as	ADP	_	_	9	mod:periph	_	AlignBegin=157350|AlignEnd=157572|Gloss=as|deprel_main_pred=mod:periph|head_MST=9|upostag=ADP
+4	manager	manager	NOUN	_	_	5	subj	_	AlignBegin=157572|AlignEnd=157987|Gloss=manager|deprel_main_pred=subj|head_MST=5|upostag=NOUN
+5	come	come	VERB	_	_	3	comp:obj	_	AlignBegin=157987|AlignEnd=158320|Gloss=come|deprel_main_pred=comp:obj|head_MST=3|upostag=VERB
+6	<	<	PUNCT	_	_	3	punct	_	AlignBegin=158290|AlignEnd=158320|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+7	#	#	PUNCT	_	_	3	punct	_	AlignBegin=158320|AlignEnd=159040|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+8	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	subj	_	AlignBegin=159040|AlignEnd=159218|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=9|upostag=PRON
+9	call	call	VERB	_	_	0	root	_	AlignBegin=159218|AlignEnd=159460|Gloss=call|deprel_main_pred=root|head_MST=0|upostag=VERB
+10	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	comp:obj	_	AlignBegin=159460|AlignEnd=159650|Gloss=ACC.SG.1|deprel_main_pred=comp:obj|head_MST=9|upostag=PRON
+11	|c	|c	PUNCT	_	_	12	punct	_	AlignBegin=159620|AlignEnd=159650|Gloss=PUNCT|deprel_main_pred=punct|head_MST=12|upostag=PUNCT
+12	tell	tell	VERB	_	_	9	conj:coord	_	AlignBegin=159650|AlignEnd=159870|Gloss=tell|deprel_main_pred=conj:coord|head_MST=9|upostag=VERB
+13	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	comp:obj	_	AlignBegin=159870|AlignEnd=159997|Gloss=ACC.SG.1|deprel_main_pred=comp:obl|head_MST=12|upostag=PRON
+14	sey	sey	SCONJ	_	_	12	comp:obj	_	AlignBegin=159997|AlignEnd=160140|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=12|upostag=SCONJ
+15	[	[	PUNCT	_	_	16	punct	_	AlignBegin=160110|AlignEnd=160140|Gloss=PUNCT|deprel_main_pred=punct|head_MST=16|upostag=PUNCT
+16	mah	make	AUX	_	Mood=Opt	14	comp:obj	_	AlignBegin=160140|AlignEnd=160305|Gloss=SBJV|levenshtein=Yes|mot=mey|deprel_main_pred=comp:obj|head_MST=14|upostag=AUX
+17	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	subj	_	AlignBegin=160305|AlignEnd=160450|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=18|upostag=PRON
+18	come	come	VERB	_	_	16	comp:aux	_	AlignBegin=160450|AlignEnd=160760|Gloss=come|deprel_main_pred=comp:aux|head_MST=16|upostag=VERB
+19	{	{	PUNCT	_	_	20	punct	_	AlignBegin=160730|AlignEnd=160760|Gloss=PUNCT|deprel_main_pred=punct|head_MST=20|upostag=PUNCT
+20	around	around	ADP	_	_	18	mod	_	AlignBegin=160760|AlignEnd=161613|Gloss=around|deprel_main_pred=comp:obl|head_MST=18|upostag=ADP
+21	||	||	PUNCT	_	_	23	punct	_	AlignBegin=161583|AlignEnd=161613|Gloss=PUNCT|deprel_main_pred=punct|head_MST=23|upostag=PUNCT
+22	#	#	PUNCT	_	_	23	punct	_	AlignBegin=161613|AlignEnd=162580|Gloss=PUNCT|deprel_main_pred=punct|head_MST=23|upostag=PUNCT
+23	around	around	ADP	_	_	20	conj:dicto	_	AlignBegin=162580|AlignEnd=163000|Gloss=around|deprel_main_pred=conj:dicto|head_MST=20|upostag=ADP
+24	}	}	PUNCT	_	_	20	punct	_	AlignBegin=162970|AlignEnd=163000|Gloss=PUNCT|deprel_main_pred=punct|head_MST=20|upostag=PUNCT
+25	twelve	twelve	NUM	_	NumType=Card	23	comp:obj	_	AlignBegin=163000|AlignEnd=163620|Gloss=twelve.CARD|deprel_main_pred=comp:obj|head_MST=23|upostag=NUM
+26	]	]	PUNCT	_	_	16	punct	_	AlignBegin=163590|AlignEnd=163620|Gloss=PUNCT|deprel_main_pred=punct|head_MST=16|upostag=PUNCT
+27	//	//	PUNCT	_	_	9	punct	_	AlignBegin=163590|AlignEnd=163620|Gloss=PUNCT|deprel_main_pred=punct|head_MST=9|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__40
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # so I tell am sey [ hah # no wahala sha !//] //
+# text_en = So I tell him "Hah, no problem!"
+# text_ortho = So I tell am sey hah no wahala sha!
+# timestamp = 1591368508.167198
+1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=163620|AlignEnd=164340|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+2	so	so	ADV	_	_	4	discourse	_	AlignBegin=164340|AlignEnd=164710|Gloss=so|deprel_main_pred=discourse|head_MST=4|upostag=ADV
+3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	subj	_	AlignBegin=164710|AlignEnd=164890|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=4|upostag=PRON
+4	tell	tell	VERB	_	_	0	root	_	AlignBegin=164890|AlignEnd=165100|Gloss=tell|deprel_main_pred=root|head_MST=0|upostag=VERB
+5	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	comp:obj	_	AlignBegin=165100|AlignEnd=165260|Gloss=ACC.SG.3|deprel_main_pred=comp:obj|head_MST=4|upostag=PRON
+6	sey	sey	SCONJ	_	_	4	comp:obj	_	AlignBegin=165260|AlignEnd=165800|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=4|upostag=SCONJ
+7	[	[	PUNCT	_	_	11	punct	_	AlignBegin=165770|AlignEnd=165800|Gloss=PUNCT|deprel_main_pred=punct|head_MST=11|upostag=PUNCT
+8	hah	hah	INTJ	_	_	11	discourse	_	AlignBegin=165800|AlignEnd=166120|Gloss=hah|levenshtein=Yes|mot=ah|deprel_main_pred=discourse|head_MST=11|upostag=ADJ
+9	#	#	PUNCT	_	_	8	punct	_	AlignBegin=166120|AlignEnd=166860|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+10	no	no	PART	_	Polarity=Neg	11	mod	_	AlignBegin=166860|AlignEnd=167100|Gloss=NEG|deprel_main_pred=mod|head_MST=11|upostag=PART
+11	wahala	wahala	NOUN	_	_	6	comp:obj	_	AlignBegin=167100|AlignEnd=167472|Gloss=trouble|deprel_main_pred=comp:obj|head_MST=6|upostag=NOUN
+12	sha	sha	PART	_	PartType=Disc	11	mod:emph	_	AlignBegin=167472|AlignEnd=167820|Gloss=really|deprel_main_pred=mod:emph|head_MST=11|upostag=PART
+13	!//]	!//]	PUNCT	_	_	11	punct	_	AlignBegin=167790|AlignEnd=167820|Gloss=PUNCT|deprel_main_pred=punct|head_MST=11|upostag=PUNCT
+14	//	//	PUNCT	_	_	4	punct	_	AlignBegin=167790|AlignEnd=167820|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__41
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # so my sister ( me and my sister bin dey house //) # tell me sey [ hah !//] //
+# text_en = So my sister (my sister and I were in the house) told me "Hah!"
+# text_ortho = So my sister (me and my sister bin dey house, ) tell me sey hah!
+# timestamp = 1591368508.167201
+1	#	#	PUNCT	_	_	15	punct	_	AlignBegin=167820|AlignEnd=168426|Gloss=PUNCT|deprel_main_pred=punct|head_MST=15|upostag=PUNCT
+2	so	so	ADV	_	_	15	discourse	_	AlignBegin=168426|AlignEnd=168630|Gloss=so|deprel_main_pred=discourse|head_MST=15|upostag=ADV
+3	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	4	mod:poss	_	AlignBegin=168630|AlignEnd=168800|Gloss=SG.1.POSS|deprel_main_pred=mod:poss|head_MST=4|upostag=PRON
+4	sister	sista	NOUN	_	_	15	subj	_	AlignBegin=168800|AlignEnd=169290|Gloss=sister|deprel_main_pred=subj|head_MST=15|upostag=NOUN
+5	(	(	PUNCT	_	_	10	punct	_	AlignBegin=169260|AlignEnd=169290|Gloss=PUNCT|deprel_main_pred=punct|head_MST=10|upostag=PUNCT
+6	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	10	subj	_	AlignBegin=169290|AlignEnd=169450|Gloss=ACC.SG.1|deprel_main_pred=subj|head_MST=10|upostag=PRON
+7	and	and	CCONJ	_	_	9	cc	_	AlignBegin=169450|AlignEnd=169560|Gloss=and|deprel_main_pred=cc|head_MST=9|upostag=CCONJ
+8	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	9	mod:poss	_	AlignBegin=169560|AlignEnd=169740|Gloss=SG.1.POSS|deprel_main_pred=mod:poss|head_MST=9|upostag=PRON
+9	sister	sista	NOUN	_	_	6	conj:coord	_	AlignBegin=169740|AlignEnd=170042|Gloss=sister|deprel_main_pred=conj:coord|head_MST=6|upostag=NOUN
+10	bin	bin	AUX	_	Tense=Past	4	parataxis:parenth	_	AlignBegin=170042|AlignEnd=170264|Gloss=PST|deprel_main_pred=parataxis:parenth|head_MST=4|upostag=AUX
+11	dey	dey	VERB	_	VerbType=Cop	10	comp:aux	_	AlignBegin=170264|AlignEnd=170436|Gloss=be|deprel_main_pred=comp:aux|head_MST=10|upostag=VERB
+12	house	house	NOUN	_	_	11	comp:pred	_	AlignBegin=170436|AlignEnd=170960|Gloss=house|deprel_main_pred=comp:pred|head_MST=11|upostag=NOUN
+13	//)	//)	PUNCT	_	_	10	punct	_	AlignBegin=170930|AlignEnd=170960|Gloss=PUNCT|deprel_main_pred=punct|head_MST=10|upostag=PUNCT
+14	#	#	PUNCT	_	_	4	punct	_	AlignBegin=170960|AlignEnd=171600|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+15	tell	tell	VERB	_	_	0	root	_	AlignBegin=171600|AlignEnd=171696|Gloss=tell|deprel_main_pred=root|head_MST=0|upostag=VERB
+16	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	15	comp:obj	_	AlignBegin=171696|AlignEnd=171840|Gloss=ACC.SG.1|deprel_main_pred=comp:obj|head_MST=15|upostag=PRON
+17	sey	sey	SCONJ	_	_	15	comp:obj	_	AlignBegin=171840|AlignEnd=172420|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=15|upostag=SCONJ
+18	[	[	PUNCT	_	_	19	punct	_	AlignBegin=172390|AlignEnd=172420|Gloss=PUNCT|deprel_main_pred=punct|head_MST=19|upostag=PUNCT
+19	hah	hah	INTJ	_	_	17	comp:obj	_	AlignBegin=172420|AlignEnd=172760|Gloss=hah|levenshtein=Yes|mot=ah|deprel_main_pred=comp:obj|head_MST=17|upostag=ADJ
+20	!//]	!//]	PUNCT	_	_	19	punct	_	AlignBegin=172730|AlignEnd=172760|Gloss=PUNCT|deprel_main_pred=punct|head_MST=19|upostag=PUNCT
+21	//	//	PUNCT	_	_	20	punct	_	AlignBegin=172730|AlignEnd=172760|Gloss=PUNCT|deprel_main_pred=punct|head_MST=15|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__42
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # nna ehn my &//
+# text_en = My brother uh, my...
+# text_ortho = Nna ehn my...
+# timestamp = 1591368508.167203
+1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=172760|AlignEnd=173360|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+2	nna	nna	PART	_	_	4	discourse	_	AlignBegin=173360|AlignEnd=173786|Gloss=father|deprel_main_pred=discourse|head_MST=4|upostag=PART
+3	ehn	ehn	INTJ	_	_	4	discourse	_	AlignBegin=173786|AlignEnd=173956|Gloss=ehn|deprel_main_pred=discourse|head_MST=4|upostag=ADJ
+4	my	my	PRON	_	Number=Sing|Person=1|Poss=Yes	0	root@scrap	_	AlignBegin=173956|AlignEnd=174288|Gloss=SG.1.POSS|deprel_main_pred=root@scrap|head_MST=0|upostag=PRON
+5	&//	&//	PUNCT	_	_	4	punct	_	AlignBegin=174258|AlignEnd=174288|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__43
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = hah why I do &//
+# text_en = Hah why did I...
+# text_ortho = Hah why I do...
+# timestamp = 1591368508.167205
+1	hah	hah	INTJ	_	_	2	discourse	_	AlignBegin=174288|AlignEnd=174650|Gloss=hah|levenshtein=Yes|mot=ah|deprel_main_pred=discourse|head_MST=2|upostag=ADJ
+2	why	why	ADV	_	PronType=Int	0	root	_	AlignBegin=174650|AlignEnd=174751|Gloss=why.Q|deprel_main_pred=root@scrap|head_MST=0|upostag=ADV
+3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	subj	_	AlignBegin=174751|AlignEnd=174840|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=4|upostag=PRON
+4	do	do	VERB	_	_	2	comp:cleft@scrap	_	AlignBegin=174840|AlignEnd=175250|Gloss=do|deprel_main_pred=comp:cleft|head_MST=2|upostag=AUX
+5	&//	&//	PUNCT	_	_	2	punct	_	AlignBegin=175220|AlignEnd=175250|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__44
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = why I go do dat work ?//
+# text_en = Why would I do that work?
+# text_ortho = Why I go do dat work?
+# timestamp = 1591368508.167208
+1	why	why	ADV	_	PronType=Int	0	root	_	AlignBegin=175250|AlignEnd=175330|Gloss=why.Q|deprel_main_pred=root|head_MST=0|upostag=ADV
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	subj	_	AlignBegin=175330|AlignEnd=175400|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=3|upostag=PRON
+3	go	go	AUX	_	Aspect=Prosp	1	comp:cleft	_	AlignBegin=175400|AlignEnd=175560|Gloss=PROSP|deprel_main_pred=comp:cleft|head_MST=1|upostag=AUX
+4	do	do	VERB	_	_	3	comp:aux	_	AlignBegin=175560|AlignEnd=175720|Gloss=do|deprel_main_pred=comp:aux|head_MST=3|upostag=VERB
+5	dat	dat	DET	_	Number=Sing|PronType=Dem	6	det	_	AlignBegin=175720|AlignEnd=175995|Gloss=SG.DEM|deprel_main_pred=det|head_MST=6|upostag=DET
+6	work	work	NOUN	_	_	4	comp:obj	_	AlignBegin=175995|AlignEnd=176131|Gloss=work|deprel_main_pred=comp:obj|head_MST=4|upostag=NOUN
+7	?//	?//	PUNCT	_	_	1	punct	_	AlignBegin=176101|AlignEnd=176131|Gloss=PUNCT|deprel_main_pred=punct|head_MST=1|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__45
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = because me < I no mtschew //
+# text_en = Because I, I don’t... mtschew.
+# text_ortho = Because me, I no... mtschew.
+# timestamp = 1591368508.16721
+1	because	because	SCONJ	_	_	5	cc	_	AlignBegin=176131|AlignEnd=176460|Gloss=because|deprel_main_pred=cc|head_MST=5|upostag=SCONJ
+2	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	dislocated	_	AlignBegin=176460|AlignEnd=176647|Gloss=NOM.SG.1|deprel_main_pred=dislocated|head_MST=5|upostag=PRON
+3	<	<	PUNCT	_	_	2	punct	_	AlignBegin=176617|AlignEnd=176647|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	subj	_	AlignBegin=176647|AlignEnd=176856|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=5|upostag=PRON
+5	no	no	PART	_	Polarity=Neg	0	root@scrap	_	AlignBegin=176856|AlignEnd=177292|Gloss=NEG|deprel_main_pred=root|head_MST=0|upostag=PART
+6	mtschew	mtschew	INTJ	_	_	5	discourse	_	AlignBegin=177292|AlignEnd=177580|Gloss=sucking_of_teeth|deprel_main_pred=discourse|head_MST=5|upostag=ADJ
+7	//	//	PUNCT	_	_	5	punct	_	AlignBegin=177550|AlignEnd=177580|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__46
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # no be sey [ I like am like dat ] because { di money no || mtschew # di money no } too make sense //
+# text_en = It's not like I really like it because the money did not, mtschew the money didn't make sense.
+# text_ortho = No be sey I like am like dat because di money no, mtschew di money no too make sense.
+# timestamp = 1591368508.167212
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=177580|AlignEnd=178180|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+2	no	no	PART	_	Polarity=Neg	3	mod	_	AlignBegin=178180|AlignEnd=178280|Gloss=NEG|deprel_main_pred=mod|head_MST=3|upostag=PART
+3	be	be	VERB	_	PartType=Cop	0	root	_	AlignBegin=178280|AlignEnd=178380|Gloss=be|deprel_main_pred=root|head_MST=0|upostag=VERB
+4	sey	sey	SCONJ	_	_	3	comp:pred	_	AlignBegin=178380|AlignEnd=178610|Gloss=COMP|deprel_main_pred=comp:pred|head_MST=3|upostag=SCONJ
+5	[	[	PUNCT	_	_	7	punct	_	AlignBegin=178580|AlignEnd=178610|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+6	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	subj	_	AlignBegin=178610|AlignEnd=178810|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=7|upostag=PRON
+7	like	like	VERB	_	_	4	comp:obj	_	AlignBegin=178810|AlignEnd=179230|Gloss=like|deprel_main_pred=comp:obj|head_MST=4|upostag=VERB
+8	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	7	comp:obj	_	AlignBegin=179230|AlignEnd=179744|Gloss=ACC.SG.3|deprel_main_pred=comp:obj|head_MST=7|upostag=PRON
+9	like	like	ADP	_	_	7	mod	_	AlignBegin=179744|AlignEnd=180070|Gloss=like|deprel_main_pred=mod|head_MST=7|upostag=ADP
+10	dat	dat	PRON	_	Number=Sing|PronType=Dem	9	comp:obj	_	AlignBegin=180070|AlignEnd=180350|Gloss=SG.DEM|deprel_main_pred=comp:obj|head_MST=9|upostag=PRON
+11	]	]	PUNCT	_	_	9	punct	_	AlignBegin=180070|AlignEnd=180350|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+12	because	because	SCONJ	_	_	3	mod	_	AlignBegin=180350|AlignEnd=180780|Gloss=because|deprel_main_pred=mod|head_MST=7|upostag=SCONJ
+13	{	{	PUNCT	_	_	15	punct	_	AlignBegin=180750|AlignEnd=180780|Gloss=PUNCT|deprel_main_pred=punct|head_MST=15|upostag=PUNCT
+14	di	di	DET	_	Definite=Def|PronType=Art	15	det	_	AlignBegin=180780|AlignEnd=180883|Gloss=DEF.ART|mot=_|noMatch=Yes|deprel_main_pred=det|head_MST=15|upostag=DET
+15	money	money	NOUN	_	_	25	subj	_	AlignBegin=180883|AlignEnd=181259|Gloss=money|deprel_main_pred=subj|head_MST=25|upostag=NOUN
+16	no	no	PART	_	Polarity=Neg	15	unk@scrap	_	AlignBegin=181259|AlignEnd=181757|Gloss=NEG|deprel_main_pred=unk@scrap|head_MST=15|upostag=PART
+17	||	||	PUNCT	_	_	21	punct	_	AlignBegin=181259|AlignEnd=181727|Gloss=PUNCT|deprel_main_pred=punct|head_MST=22|upostag=PUNCT
+18	mtschew	mtschew	INTJ	_	_	21	discourse	_	AlignBegin=181757|AlignEnd=182130|Gloss=sucking_of_teeth|deprel_main_pred=discourse|head_MST=22|upostag=ADJ
+19	#	#	PUNCT	_	_	18	punct	_	AlignBegin=182130|AlignEnd=182525|Gloss=PUNCT|deprel_main_pred=punct|head_MST=18|upostag=PUNCT
+20	di	di	DET	_	Definite=Def|PronType=Art	21	det	_	AlignBegin=182525|AlignEnd=182730|Gloss=DEF.ART|deprel_main_pred=det|head_MST=21|upostag=DET
+21	money	money	NOUN	_	_	15	conj:dicto	_	AlignBegin=182730|AlignEnd=183000|Gloss=money|deprel_main_pred=subj|head_MST=25|upostag=NOUN
+22	no	no	PART	_	Polarity=Neg	25	mod	_	AlignBegin=183000|AlignEnd=183190|Gloss=NEG|deprel_main_pred=subj@expl|head_MST=25|upostag=PART
+23	}	}	PUNCT	_	_	15	punct	_	AlignBegin=183160|AlignEnd=183190|Gloss=PUNCT|deprel_main_pred=punct|head_MST=15|upostag=PUNCT
+24	too	too	ADV	_	_	25	mod	_	AlignBegin=183190|AlignEnd=183360|Gloss=too|deprel_main_pred=mod|head_MST=25|upostag=ADV
+25	make	make	VERB	_	_	12	comp:obj	_	AlignBegin=183360|AlignEnd=183600|Gloss=make|deprel_main_pred=comp:obj|head_MST=12|upostag=VERB
+26	sense	sense	NOUN	_	_	25	comp:obj@lvc	_	AlignBegin=183600|AlignEnd=184120|Gloss=sense|deprel_main_pred=comp:obj@lvc|head_MST=25|upostag=NOUN
+27	//	//	PUNCT	_	_	3	punct	_	AlignBegin=184090|AlignEnd=184120|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__47
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # tell am sey no wahala //
+# text_en = I told him "no problem."
+# text_ortho = Tell am sey "no wahala."
+# timestamp = 1591368508.167215
+1	#	#	PUNCT	_	_	2	punct	_	AlignBegin=184120|AlignEnd=185060|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+2	tell	tell	VERB	_	_	0	root	_	AlignBegin=185060|AlignEnd=185180|Gloss=tell|deprel_main_pred=root|head_MST=0|upostag=VERB
+3	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	comp:obj	_	AlignBegin=185180|AlignEnd=185341|Gloss=ACC.SG.3|deprel_main_pred=comp:obj|head_MST=2|upostag=PRON
+4	sey	sey	SCONJ	_	_	2	comp:obj	_	AlignBegin=185341|AlignEnd=185490|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=2|upostag=SCONJ
+5	no	no	PART	_	Polarity=Neg	6	mod	_	AlignBegin=185490|AlignEnd=185740|Gloss=NEG|deprel_main_pred=mod|head_MST=6|upostag=PART
+6	wahala	wahala	NOUN	_	_	4	comp:obj	_	AlignBegin=185740|AlignEnd=186000|Gloss=trouble|deprel_main_pred=comp:obj|head_MST=4|upostag=NOUN
+7	//	//	PUNCT	_	_	2	punct	_	AlignBegin=185970|AlignEnd=186000|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__48
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = { mah I go || # mah I go } do am now //
+# text_en = "Let me go, I'll go do it now."
+# text_ortho = "Mah I go, mah I go do am now."
+# timestamp = 1591368508.167217
+1	{	{	PUNCT	_	_	2	punct	_	AlignBegin=185970|AlignEnd=186000|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+2	mah	make	AUX	_	Mood=Opt	0	root	_	AlignBegin=186000|AlignEnd=186190|Gloss=SBJV|levenshtein=Yes|mot=mey|deprel_main_pred=root|head_MST=0|upostag=AUX
+3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	subj	_	AlignBegin=186190|AlignEnd=186368|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=4|upostag=PRON
+4	go	go	VERB	_	_	2	comp:aux	_	AlignBegin=186368|AlignEnd=186981|Gloss=go|deprel_main_pred=comp:aux|head_MST=2|upostag=VERB
+5	||	||	PUNCT	_	_	7	punct	_	AlignBegin=186951|AlignEnd=186981|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+6	#	#	PUNCT	_	_	7	punct	_	AlignBegin=186981|AlignEnd=187388|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+7	mah	make	AUX	_	Mood=Opt	2	conj:dicto	_	AlignBegin=187388|AlignEnd=187494|Gloss=SBJV|levenshtein=Yes|mot=mey|deprel_main_pred=conj:dicto|head_MST=2|upostag=AUX
+8	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	subj	_	AlignBegin=187494|AlignEnd=187560|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=9|upostag=PRON
+9	go	go	VERB	_	_	7	comp:aux	_	AlignBegin=187560|AlignEnd=187777|Gloss=go|deprel_main_pred=comp:aux|head_MST=7|upostag=VERB
+10	}	}	PUNCT	_	_	7	punct	_	AlignBegin=187747|AlignEnd=187777|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+11	do	do	VERB	_	_	9	comp:obj@x	_	AlignBegin=187777|AlignEnd=187970|Gloss=do|deprel_main_pred=comp:obj@x|head_MST=9|upostag=VERB
+12	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	11	comp:obj	_	AlignBegin=187970|AlignEnd=188210|Gloss=ACC.SG.3|deprel_main_pred=comp:obj|head_MST=11|upostag=PRON
+13	now	now	ADV	_	_	11	mod	_	AlignBegin=188210|AlignEnd=188590|Gloss=now|deprel_main_pred=mod|head_MST=11|upostag=ADV
+14	//	//	PUNCT	_	_	2	punct	_	AlignBegin=188560|AlignEnd=188590|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__49
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # so # now I come //
+# text_en = So, then I went.
+# text_ortho = So now I come.
+# timestamp = 1591368508.16722
+1	#	#	PUNCT	_	_	6	punct	_	AlignBegin=188590|AlignEnd=189024|Gloss=PUNCT|deprel_main_pred=punct|head_MST=6|upostag=PUNCT
+2	so	so	ADV	_	_	6	discourse	_	AlignBegin=189024|AlignEnd=189320|Gloss=so|deprel_main_pred=discourse|head_MST=6|upostag=ADV
+3	#	#	PUNCT	_	_	2	punct	_	AlignBegin=189320|AlignEnd=190239|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+4	now	now	ADV	_	_	6	mod:periph	_	AlignBegin=190239|AlignEnd=190480|Gloss=now|levenshtein=Yes|mot=na|deprel_main_pred=discourse|head_MST=6|upostag=ADV
+5	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	subj	_	AlignBegin=190480|AlignEnd=190597|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=6|upostag=PRON
+6	come	come	VERB	_	_	0	root	_	AlignBegin=190597|AlignEnd=190920|Gloss=come|deprel_main_pred=root|head_MST=0|upostag=VERB
+7	//	//	PUNCT	_	_	6	punct	_	AlignBegin=190890|AlignEnd=190920|Gloss=PUNCT|deprel_main_pred=punct|head_MST=6|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__50
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # di guy tell me sey &//
+# text_en = The guy told me...
+# text_ortho = Di guy tell me sey...
+# timestamp = 1591368508.167222
+1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=190920|AlignEnd=191800|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+2	di	di	DET	_	Definite=Def|PronType=Art	3	det	_	AlignBegin=191800|AlignEnd=191870|Gloss=DEF.ART|deprel_main_pred=det|head_MST=3|upostag=DET
+3	guy	guy	NOUN	_	_	4	subj	_	AlignBegin=191870|AlignEnd=192070|Gloss=guy|deprel_main_pred=subj|head_MST=4|upostag=NOUN
+4	tell	tell	VERB	_	_	0	root	_	AlignBegin=192070|AlignEnd=192230|Gloss=tell|deprel_main_pred=root|head_MST=0|upostag=VERB
+5	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	comp:obj	_	AlignBegin=192230|AlignEnd=192351|Gloss=ACC.SG.1|deprel_main_pred=comp:obj|head_MST=4|upostag=PRON
+6	sey	sey	SCONJ	_	_	4	comp:obj@scrap	_	AlignBegin=192351|AlignEnd=192780|Gloss=COMP|deprel_main_pred=comp:obj@scrap|head_MST=4|upostag=SCONJ
+7	&//	&//	PUNCT	_	_	4	punct	_	AlignBegin=192750|AlignEnd=192780|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__51
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # okay im tell me sey [ mah I come here ] //
+# text_en = Okay, he told me that I should come here.
+# text_ortho = Okay im tell me sey mah I come here.
+# timestamp = 1591368508.167225
+1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=192780|AlignEnd=193060|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+2	okay	OK	INTJ	_	_	4	discourse	_	AlignBegin=193060|AlignEnd=193520|Gloss=OK|deprel_main_pred=discourse|head_MST=4|upostag=ADJ
+3	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	subj	_	AlignBegin=193520|AlignEnd=193691|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=4|upostag=PRON
+4	tell	tell	VERB	_	_	0	root	_	AlignBegin=193691|AlignEnd=193850|Gloss=tell|deprel_main_pred=root|head_MST=0|upostag=VERB
+5	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	comp:obj	_	AlignBegin=193850|AlignEnd=193934|Gloss=ACC.SG.1|deprel_main_pred=comp:obj|head_MST=4|upostag=PRON
+6	sey	sey	SCONJ	_	_	4	comp:obj	_	AlignBegin=193934|AlignEnd=194080|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=4|upostag=SCONJ
+7	[	[	PUNCT	_	_	8	punct	_	AlignBegin=194050|AlignEnd=194080|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+8	mah	make	AUX	_	Mood=Opt	6	comp:obj	_	AlignBegin=194080|AlignEnd=194200|Gloss=SBJV|levenshtein=Yes|mot=mey|deprel_main_pred=comp:obj|head_MST=6|upostag=AUX
+9	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	subj	_	AlignBegin=194200|AlignEnd=194330|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=10|upostag=PRON
+10	come	come	VERB	_	_	8	comp:aux	_	AlignBegin=194330|AlignEnd=194587|Gloss=come|deprel_main_pred=comp:aux|head_MST=8|upostag=VERB
+11	here	here	ADV	_	_	10	comp:obj	_	AlignBegin=194587|AlignEnd=194882|Gloss=here|deprel_main_pred=comp:obj|head_MST=10|upostag=ADV
+12	]	]	PUNCT	_	_	8	punct	_	AlignBegin=194852|AlignEnd=194882|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+13	//	//	PUNCT	_	_	4	punct	_	AlignBegin=194852|AlignEnd=194882|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__52
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = sey di guy wey bin dey here < e go # ehn teach me some certain tings //
+# text_en = That the guy who was here, he would uh... teach me some... certain things.
+# text_ortho = Sey di guy wey bin dey here, e go ehn... teach me some certain tings.
+# timestamp = 1591368508.167227
+1	sey	sey	SCONJ	_	_	10	cc	_	AlignBegin=194882|AlignEnd=195180|Gloss=COMP|deprel_main_pred=cc|head_MST=10|upostag=SCONJ
+2	di	di	DET	_	Definite=Def|PronType=Art	3	det	_	AlignBegin=195180|AlignEnd=195296|Gloss=DEF.ART|deprel_main_pred=det|head_MST=3|upostag=DET
+3	guy	guy	NOUN	_	_	10	dislocated	_	AlignBegin=195296|AlignEnd=195558|Gloss=guy|deprel_main_pred=dislocated|head_MST=10|upostag=NOUN
+4	wey	wey	SCONJ	_	_	3	mod@relcl	_	AlignBegin=195558|AlignEnd=195670|Gloss=REL|deprel_main_pred=mod@relcl|head_MST=3|upostag=SCONJ
+5	bin	bin	AUX	_	Tense=Past	4	comp:obj	_	AlignBegin=195670|AlignEnd=195941|Gloss=PST|deprel_main_pred=comp:obj|head_MST=4|upostag=AUX
+6	dey	dey	VERB	_	VerbType=Cop	5	comp:aux	_	AlignBegin=195941|AlignEnd=196195|Gloss=be|deprel_main_pred=comp:aux|head_MST=5|upostag=VERB
+7	here	here	ADV	_	_	6	comp:pred	_	AlignBegin=196195|AlignEnd=196457|Gloss=here|deprel_main_pred=comp:pred|head_MST=6|upostag=ADV
+8	<	<	PUNCT	_	_	3	punct	_	AlignBegin=196427|AlignEnd=196457|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+9	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	subj	_	AlignBegin=196457|AlignEnd=196556|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=10|upostag=PRON
+10	go	go	AUX	_	Aspect=Prosp	0	root	_	AlignBegin=196556|AlignEnd=197000|Gloss=PROSP|deprel_main_pred=root|head_MST=0|upostag=AUX
+11	#	#	PUNCT	_	_	13	punct	_	AlignBegin=197000|AlignEnd=198160|Gloss=PUNCT|deprel_main_pred=punct|head_MST=13|upostag=PUNCT
+12	ehn	ehn	INTJ	_	_	13	discourse	_	AlignBegin=198160|AlignEnd=198435|Gloss=ehn|deprel_main_pred=discourse|head_MST=13|upostag=ADJ
+13	teach	teach	VERB	_	_	10	comp:aux	_	AlignBegin=198435|AlignEnd=198720|Gloss=teach|deprel_main_pred=comp:aux|head_MST=10|upostag=VERB
+14	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	comp:obj	_	AlignBegin=198720|AlignEnd=198850|Gloss=ACC.SG.1|deprel_main_pred=comp:obj|head_MST=13|upostag=PRON
+15	some	some	DET	_	_	17	det	_	AlignBegin=198850|AlignEnd=199080|Gloss=some|deprel_main_pred=det|head_MST=17|upostag=DET
+16	certain	certain	ADJ	_	_	17	mod	_	AlignBegin=199080|AlignEnd=199470|Gloss=certain|deprel_main_pred=mod|head_MST=17|upostag=ADJ
+17	tings	tings	NOUN	_	Number=Plur	13	comp:obj	_	AlignBegin=199470|AlignEnd=200000|Gloss=thing.PL|deprel_main_pred=comp:obj|head_MST=13|upostag=NOUN
+18	//	//	PUNCT	_	_	10	punct	_	AlignBegin=199970|AlignEnd=200000|Gloss=PUNCT|deprel_main_pred=punct|head_MST=10|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__53
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # you understand ?//
+# text_en = You understand?
+# text_ortho = You understand?
+# timestamp = 1591368508.16723
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=200000|AlignEnd=200330|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+2	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	3	subj	_	AlignBegin=200330|AlignEnd=200400|Gloss=NOM.2|deprel_main_pred=subj|head_MST=3|upostag=PRON
+3	understand	understand	VERB	_	_	0	root	_	AlignBegin=200400|AlignEnd=200841|Gloss=understand|deprel_main_pred=root|head_MST=0|upostag=VERB
+4	?//	?//	PUNCT	_	_	3	punct	_	AlignBegin=200811|AlignEnd=200841|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__54
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = so I tell am sey [ no wahala ] //
+# text_en = So, I told him, "no problem."
+# text_ortho = So I tell am sey "no wahala."
+# timestamp = 1591368508.167232
+1	so	so	ADV	_	_	3	discourse	_	AlignBegin=200841|AlignEnd=201240|Gloss=so|deprel_main_pred=discourse|head_MST=3|upostag=ADV
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	subj	_	AlignBegin=201240|AlignEnd=201313|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=3|upostag=PRON
+3	tell	tell	VERB	_	_	0	root	_	AlignBegin=201313|AlignEnd=201530|Gloss=tell|deprel_main_pred=root|head_MST=0|upostag=VERB
+4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=201530|AlignEnd=201640|Gloss=ACC.SG.3|deprel_main_pred=comp:obj|head_MST=3|upostag=PRON
+5	sey	sey	SCONJ	_	_	3	comp:obj	_	AlignBegin=201640|AlignEnd=201820|Gloss=COMP|deprel_main_pred=comp:obj|head_MST=3|upostag=SCONJ
+6	[	[	PUNCT	_	_	8	punct	_	AlignBegin=201790|AlignEnd=201820|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+7	no	no	PART	_	Polarity=Neg	8	mod	_	AlignBegin=201820|AlignEnd=201982|Gloss=NEG|deprel_main_pred=mod|head_MST=8|upostag=PART
+8	wahala	wahala	NOUN	_	_	5	comp:obj	_	AlignBegin=201982|AlignEnd=202300|Gloss=trouble|deprel_main_pred=comp:obj|head_MST=5|upostag=NOUN
+9	]	]	PUNCT	_	_	8	punct	_	AlignBegin=202270|AlignEnd=202300|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+10	//	//	PUNCT	_	_	3	punct	_	AlignBegin=202270|AlignEnd=202300|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__55
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # so di guy con dey yarn me |c con dey { teach me |r teach me } //
+# text_en = So the guy was telling me, he was teaching me, teaching me.
+# text_ortho = So di guy con dey yarn me, con dey teach me, teach me.
+# timestamp = 1591368508.167234
+1	#	#	PUNCT	_	_	5	punct	_	AlignBegin=202300|AlignEnd=203011|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+2	so	so	ADV	_	_	5	discourse	_	AlignBegin=203011|AlignEnd=203240|Gloss=so|deprel_main_pred=discourse|head_MST=5|upostag=ADV
+3	di	di	DET	_	Definite=Def|PronType=Art	4	det	_	AlignBegin=203240|AlignEnd=203370|Gloss=DEF.ART|deprel_main_pred=det|head_MST=4|upostag=DET
+4	guy	guy	NOUN	_	_	5	subj	_	AlignBegin=203370|AlignEnd=203634|Gloss=guy|deprel_main_pred=subj|head_MST=5|upostag=NOUN
+5	con	con	AUX	_	Aspect=Cons	0	root	_	AlignBegin=203634|AlignEnd=203870|Gloss=CONS|deprel_main_pred=root|head_MST=0|upostag=AUX
+6	dey	dey	AUX	_	Aspect=Imp	5	comp:aux	_	AlignBegin=203870|AlignEnd=204010|Gloss=IPFV|deprel_main_pred=comp:aux|head_MST=5|upostag=AUX
+7	yarn	yarn	VERB	_	_	6	comp:aux	_	AlignBegin=204010|AlignEnd=204273|Gloss=talk|deprel_main_pred=comp:aux|head_MST=6|upostag=VERB
+8	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	comp:obj	_	AlignBegin=204273|AlignEnd=204480|Gloss=ACC.SG.1|deprel_main_pred=comp:obj|head_MST=7|upostag=PRON
+9	|c	|c	PUNCT	_	_	10	punct	_	AlignBegin=204450|AlignEnd=204480|Gloss=PUNCT|deprel_main_pred=punct|head_MST=10|upostag=PUNCT
+10	con	con	AUX	_	Aspect=Cons	5	conj:coord	_	AlignBegin=204480|AlignEnd=204722|Gloss=CONS|deprel_main_pred=conj:coord|head_MST=5|upostag=AUX
+11	dey	dey	AUX	_	Aspect=Imp	10	comp:aux	_	AlignBegin=204722|AlignEnd=204908|Gloss=IPFV|deprel_main_pred=comp:aux|head_MST=10|upostag=AUX
+12	{	{	PUNCT	_	_	13	punct	_	AlignBegin=204878|AlignEnd=204908|Gloss=PUNCT|deprel_main_pred=punct|head_MST=13|upostag=PUNCT
+13	teach	teach	VERB	_	_	11	comp:aux	_	AlignBegin=204908|AlignEnd=205280|Gloss=teach|deprel_main_pred=comp:aux|head_MST=11|upostag=VERB
+14	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	comp:obj	_	AlignBegin=205280|AlignEnd=205540|Gloss=ACC.SG.1|deprel_main_pred=comp:obj|head_MST=13|upostag=PRON
+15	|r	|r	PUNCT	_	_	16	punct	_	AlignBegin=205510|AlignEnd=205540|Gloss=PUNCT|deprel_main_pred=punct|head_MST=16|upostag=PUNCT
+16	teach	teach	VERB	_	_	13	compound:redup	_	AlignBegin=205540|AlignEnd=205915|Gloss=teach|deprel_main_pred=compound:redup|head_MST=13|upostag=VERB
+17	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	16	comp:obj	_	AlignBegin=205915|AlignEnd=206180|Gloss=ACC.SG.1|deprel_main_pred=comp:obj|head_MST=16|upostag=PRON
+18	}	}	PUNCT	_	_	13	punct	_	AlignBegin=206150|AlignEnd=206180|Gloss=PUNCT|deprel_main_pred=punct|head_MST=13|upostag=PUNCT
+19	//	//	PUNCT	_	_	5	punct	_	AlignBegin=206150|AlignEnd=206180|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__56
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # di guy { is real || is about } to go //
+# text_en = The guy is real... is about to go.
+# text_ortho = Di guy is real, is about to go.
+# timestamp = 1591368508.167237
+1	#	#	PUNCT	_	_	5	punct	_	AlignBegin=206180|AlignEnd=207540|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+2	di	di	DET	_	Definite=Def|PronType=Art	3	det	_	AlignBegin=207540|AlignEnd=207644|Gloss=DEF.ART|Lang=en|highlight=#4087F0|deprel_main_pred=det|head_MST=3|upostag=DET
+3	guy	guy	NOUN	_	_	5	subj	_	AlignBegin=207644|AlignEnd=207890|Gloss=guy|Lang=en|highlight=#4087F0|deprel_main_pred=subj|head_MST=5|upostag=NOUN
+4	{	{	PUNCT	_	_	5	punct	_	AlignBegin=207860|AlignEnd=207890|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+5	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=207890|AlignEnd=208070|Gloss=be.IND.SG.3.PRS.FIN|Lang=en|highlight=#4087F0|deprel_main_pred=root|head_MST=0|upostag=VERB
+6	real	real	ADJ	_	_	5	comp:pred	_	AlignBegin=208070|AlignEnd=208340|Gloss=real|Lang=en|highlight=#4087F0|deprel_main_pred=comp:pred|head_MST=5|upostag=ADJ
+7	||	||	PUNCT	_	_	8	punct	_	AlignBegin=208310|AlignEnd=208340|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+8	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj:dicto	_	AlignBegin=208340|AlignEnd=208541|Gloss=be.IND.SG.3.PRS.FIN|Lang=en|highlight=#4087F0|deprel_main_pred=conj:dicto|head_MST=5|upostag=VERB
+9	about	about	ADP	_	_	8	comp:pred	_	AlignBegin=208541|AlignEnd=208880|Gloss=about|Lang=en|highlight=#4087F0|deprel_main_pred=comp:pred|head_MST=8|upostag=ADP
+10	}	}	PUNCT	_	_	5	punct	_	AlignBegin=208880|AlignEnd=209076|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+11	to	to	ADP	_	_	9	comp:obj	_	AlignBegin=208880|AlignEnd=209076|Gloss=to|Lang=en|highlight=#4087F0|deprel_main_pred=comp:obj|head_MST=9|upostag=ADP
+12	go	go	VERB	_	_	11	comp:obj	_	AlignBegin=209076|AlignEnd=209406|Gloss=go|Lang=en|highlight=#4087F0|deprel_main_pred=comp:obj|head_MST=11|upostag=VERB
+13	//	//	PUNCT	_	_	5	punct	_	AlignBegin=209376|AlignEnd=209406|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__57
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # di guy get &//
+# text_en = The guy got...
+# text_ortho = Di guy get...
+# timestamp = 1591368508.167239
+1	#	#	PUNCT	_	_	4	punct	_	AlignBegin=209406|AlignEnd=209720|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+2	di	di	DET	_	Definite=Def|PronType=Art	3	det	_	AlignBegin=209720|AlignEnd=209800|Gloss=DEF.ART|deprel_main_pred=det|head_MST=3|upostag=DET
+3	guy	guy	NOUN	_	_	4	subj	_	AlignBegin=209800|AlignEnd=210220|Gloss=guy|deprel_main_pred=subj|head_MST=4|upostag=NOUN
+4	get	get	VERB	_	_	0	root@scrap	_	AlignBegin=210220|AlignEnd=210926|Gloss=get|deprel_main_pred=root@scrap|head_MST=0|upostag=VERB
+5	&//	&//	PUNCT	_	_	4	punct	_	AlignBegin=210896|AlignEnd=210926|Gloss=PUNCT|deprel_main_pred=punct|head_MST=4|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__58
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = ehn e be like sey [ e get im # ehn national NYSC ] //
+# text_en = Uh, it's as if he has his uh, national... NYSC.
+# text_ortho = Ehn, e be like sey e get im ehn, national... NYSC.
+# timestamp = 1591368508.167242
+1	ehn	ehn	INTJ	_	_	3	discourse	_	AlignBegin=210926|AlignEnd=211257|Gloss=ehn|deprel_main_pred=discourse|head_MST=3|upostag=ADJ
+2	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	subj@expl	_	AlignBegin=211257|AlignEnd=211310|Gloss=NOM.SG.3|deprel_main_pred=subj@expl|head_MST=3|upostag=PRON
+3	be	be	VERB	_	PartType=Cop	0	root	_	AlignBegin=211310|AlignEnd=211420|Gloss=be|deprel_main_pred=root|head_MST=0|upostag=VERB
+4	like	like	ADP	_	_	3	comp:pred	_	AlignBegin=211420|AlignEnd=211560|Gloss=like|deprel_main_pred=comp:pred|head_MST=3|upostag=ADP
+5	sey	sey	SCONJ	_	_	4	comp:obj@fixed	_	AlignBegin=211560|AlignEnd=211800|Gloss=COMP|deprel_main_pred=comp:obj@fixed|head_MST=4|upostag=SCONJ
+6	[	[	PUNCT	_	_	8	punct	_	AlignBegin=211770|AlignEnd=211800|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+7	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	subj	_	AlignBegin=211800|AlignEnd=211938|Gloss=NOM.SG.3|deprel_main_pred=subj@expl|head_MST=8|upostag=PRON
+8	get	get	VERB	_	_	5	comp:obj	_	AlignBegin=211938|AlignEnd=212320|Gloss=get|deprel_main_pred=comp:obj|head_MST=5|upostag=VERB
+9	im	im	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	mod:poss	_	AlignBegin=212320|AlignEnd=212840|Gloss=3.SG.POSS|deprel_main_pred=mod:poss|head_MST=13|upostag=PRON
+10	#	#	PUNCT	_	_	9	punct	_	AlignBegin=212840|AlignEnd=213140|Gloss=PUNCT|deprel_main_pred=punct|head_MST=9|upostag=PUNCT
+11	ehn	ehn	INTJ	_	_	9	discourse	_	AlignBegin=213140|AlignEnd=213490|Gloss=ehn|deprel_main_pred=discourse|head_MST=13|upostag=ADJ
+12	national	national	ADJ	_	_	13	mod	_	AlignBegin=213490|AlignEnd=214030|Gloss=national|deprel_main_pred=mod|head_MST=13|upostag=ADJ
+13	NYSC	NYSC	PROPN	_	_	8	comp:obj	_	AlignBegin=214030|AlignEnd=214680|Gloss=NYSC|deprel_main_pred=comp:obj|head_MST=8|upostag=PROPN
+14	]	]	PUNCT	_	_	8	punct	_	AlignBegin=214650|AlignEnd=214680|Gloss=PUNCT|deprel_main_pred=punct|head_MST=8|upostag=PUNCT
+15	//	//	PUNCT	_	_	3	punct	_	AlignBegin=214650|AlignEnd=214680|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__59
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # im wan go service //
+# text_en = He wanted to go and do his NYSC.
+# text_ortho = Im wan go service.
+# timestamp = 1591368508.167244
+1	#	#	PUNCT	_	_	3	punct	_	AlignBegin=214680|AlignEnd=215420|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+2	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	subj	_	AlignBegin=215420|AlignEnd=215610|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=3|upostag=PRON
+3	wan	want	VERB	_	_	0	root	_	AlignBegin=215610|AlignEnd=215836|Gloss=want|deprel_main_pred=root|head_MST=0|upostag=VERB
+4	go	go	VERB	_	_	3	comp:obj@x	_	AlignBegin=215836|AlignEnd=216140|Gloss=go|deprel_main_pred=comp:obj@x|head_MST=3|upostag=VERB
+5	service	service	NOUN	_	_	4	comp:obj	_	AlignBegin=216140|AlignEnd=216800|Gloss=service|deprel_main_pred=comp:obj|head_MST=4|upostag=NOUN
+6	//	//	PUNCT	_	_	3	punct	_	AlignBegin=216770|AlignEnd=216800|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__60
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # so mtschew # so na so >+ me I bin dey here o //
+# text_en = So, mstchew, so, that’s how, me, I'm here.
+# text_ortho = So mstchew so na so, me I bin dey here o.
+# timestamp = 1591368508.167246
+1	#	#	PUNCT	_	_	6	punct	_	AlignBegin=216800|AlignEnd=217094|Gloss=PUNCT|deprel_main_pred=punct|head_MST=6|upostag=PUNCT
+2	so	so	ADV	_	_	6	discourse	_	AlignBegin=217094|AlignEnd=217717|Gloss=so|deprel_main_pred=discourse|head_MST=6|upostag=ADV
+3	mtschew	mtschew	INTJ	_	_	6	discourse	_	AlignBegin=217717|AlignEnd=218040|Gloss=sucking_of_teeth|levenshtein=Yes|mot=mstchew|deprel_main_pred=discourse|head_MST=6|upostag=ADJ
+4	#	#	PUNCT	_	_	3	punct	_	AlignBegin=218040|AlignEnd=218760|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+5	so	so	ADV	_	_	6	discourse	_	AlignBegin=218760|AlignEnd=219300|Gloss=so|deprel_main_pred=discourse|head_MST=6|upostag=ADV
+6	na	na	PART	_	PartType=Cop	0	root	_	AlignBegin=219300|AlignEnd=219460|Gloss=be|deprel_main_pred=root|head_MST=0|upostag=PART
+7	so	so	ADV	_	_	6	comp:pred	_	AlignBegin=219460|AlignEnd=219680|Gloss=so|deprel_main_pred=comp:pred|head_MST=6|upostag=ADV
+8	>+	>+	PUNCT	_	_	11	punct	_	AlignBegin=219650|AlignEnd=219680|Gloss=PUNCT|deprel_main_pred=punct|head_MST=11|upostag=PUNCT
+9	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	dislocated	_	AlignBegin=219680|AlignEnd=219870|Gloss=NOM.SG.1|deprel_main_pred=dislocated|head_MST=11|upostag=PRON
+10	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	subj	_	AlignBegin=219870|AlignEnd=220020|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=11|upostag=PRON
+11	bin	bin	AUX	_	Tense=Past	6	comp:cleft	_	AlignBegin=220020|AlignEnd=220268|Gloss=PST|deprel_main_pred=comp:cleft|head_MST=6|upostag=AUX
+12	dey	dey	VERB	_	VerbType=Cop	11	comp:aux	_	AlignBegin=220268|AlignEnd=220438|Gloss=be|deprel_main_pred=comp:aux|head_MST=11|upostag=VERB
+13	here	here	ADV	_	_	12	comp:pred	_	AlignBegin=220438|AlignEnd=220740|Gloss=here|deprel_main_pred=comp:pred|head_MST=12|upostag=ADV
+14	o	o	PART	_	PartType=Disc	13	mod:emph	_	AlignBegin=220740|AlignEnd=221100|Gloss=EMPH|deprel_main_pred=mod:emph|head_MST=13|upostag=PART
+15	//	//	PUNCT	_	_	6	punct	_	AlignBegin=221070|AlignEnd=221100|Gloss=PUNCT|deprel_main_pred=punct|head_MST=6|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__61
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # so me I bin dey here //
+# text_en = So I was here.
+# text_ortho = So me I bin dey here.
+# timestamp = 1591368508.167249
+1	#	#	PUNCT	_	_	5	punct	_	AlignBegin=221100|AlignEnd=221540|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+2	so	so	ADV	_	_	5	discourse	_	AlignBegin=221540|AlignEnd=221788|Gloss=so|deprel_main_pred=discourse|head_MST=5|upostag=ADV
+3	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	dislocated	_	AlignBegin=221788|AlignEnd=221960|Gloss=NOM.SG.1|deprel_main_pred=dislocated|head_MST=5|upostag=PRON
+4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	subj	_	AlignBegin=221960|AlignEnd=222081|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=5|upostag=PRON
+5	bin	bin	AUX	_	Tense=Past	0	root	_	AlignBegin=222081|AlignEnd=222250|Gloss=PST|deprel_main_pred=root|head_MST=0|upostag=AUX
+6	dey	dey	VERB	_	VerbType=Cop	5	comp:aux	_	AlignBegin=222250|AlignEnd=222396|Gloss=be|deprel_main_pred=comp:aux|head_MST=5|upostag=VERB
+7	here	here	ADV	_	_	6	comp:pred	_	AlignBegin=222396|AlignEnd=222480|Gloss=here|deprel_main_pred=comp:pred|head_MST=6|upostag=ADV
+8	//	//	PUNCT	_	_	5	punct	_	AlignBegin=222450|AlignEnd=222480|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__62
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = di guy is about to go //
+# text_en = The guy is about to go.
+# text_ortho = Di guy is about to go.
+# timestamp = 1591368508.167251
+1	di	di	DET	_	Definite=Def|PronType=Art	2	det	_	AlignBegin=222480|AlignEnd=222680|Gloss=DEF.ART|deprel_main_pred=det|head_MST=2|upostag=DET
+2	guy	guy	NOUN	_	_	3	subj	_	AlignBegin=222680|AlignEnd=223030|Gloss=guy|deprel_main_pred=subj|head_MST=3|upostag=NOUN
+3	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=223030|AlignEnd=223150|Gloss=be.IND.SG.3.PRS.FIN|deprel_main_pred=root|head_MST=0|upostag=VERB
+4	about	about	ADP	_	_	3	comp:pred	_	AlignBegin=223150|AlignEnd=223460|Gloss=about|deprel_main_pred=comp:pred|head_MST=3|upostag=ADP
+5	to	to	ADP	_	_	4	comp:obj	_	AlignBegin=223460|AlignEnd=223570|Gloss=to|deprel_main_pred=comp:obj|head_MST=4|upostag=ADP
+6	go	go	VERB	_	_	5	comp:obj	_	AlignBegin=223570|AlignEnd=223830|Gloss=go|deprel_main_pred=comp:obj|head_MST=5|upostag=VERB
+7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=223800|AlignEnd=223830|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__63
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = maybe na today >+ di guy go comot //
+# text_en = Maybe it's today the guy will be leaving.
+# text_ortho = Maybe na today, di guy go comot.
+# timestamp = 1591368508.167253
+1	maybe	maybe	ADV	_	_	2	mod:periph	_	AlignBegin=223830|AlignEnd=224130|Gloss=maybe|deprel_main_pred=mod:periph|head_MST=2|upostag=ADV
+2	na	na	PART	_	PartType=Cop	0	root	_	AlignBegin=224130|AlignEnd=224270|Gloss=be|deprel_main_pred=root|head_MST=0|upostag=PART
+3	today	today	NOUN	_	_	2	comp:pred	_	AlignBegin=224270|AlignEnd=224630|Gloss=today|deprel_main_pred=comp:pred|head_MST=2|upostag=NOUN
+4	>+	>+	PUNCT	_	_	7	punct	_	AlignBegin=224600|AlignEnd=224630|Gloss=PUNCT|deprel_main_pred=punct|head_MST=7|upostag=PUNCT
+5	di	di	DET	_	Definite=Def|PronType=Art	6	det	_	AlignBegin=224630|AlignEnd=224745|Gloss=DEF.ART|deprel_main_pred=det|head_MST=6|upostag=DET
+6	guy	guy	NOUN	_	_	7	subj	_	AlignBegin=224745|AlignEnd=224970|Gloss=guy|deprel_main_pred=subj|head_MST=7|upostag=NOUN
+7	go	go	AUX	_	Aspect=Prosp	2	comp:cleft	_	AlignBegin=224970|AlignEnd=225050|Gloss=PROSP|deprel_main_pred=comp:cleft|head_MST=2|upostag=AUX
+8	comot	comot	VERB	_	_	7	comp:aux	_	AlignBegin=225050|AlignEnd=225580|Gloss=get_out|deprel_main_pred=comp:aux|head_MST=7|upostag=VERB
+9	//	//	PUNCT	_	_	2	punct	_	AlignBegin=225550|AlignEnd=225580|Gloss=PUNCT|deprel_main_pred=punct|head_MST=2|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__64
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = me < { I go || # I go } take up //
+# text_en = Me, I will, I will take over.
+# text_ortho = Me, I go, I go take up.
+# timestamp = 1591368508.167256
+1	me	me	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	dislocated	_	AlignBegin=225580|AlignEnd=225700|Gloss=NOM.SG.1|deprel_main_pred=dislocated|head_MST=5|upostag=PRON
+2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=225670|AlignEnd=225700|Gloss=PUNCT|deprel_main_pred=punct|head_MST=1|upostag=PUNCT
+3	{	{	PUNCT	_	_	5	punct	_	AlignBegin=225670|AlignEnd=225700|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	subj	_	AlignBegin=225700|AlignEnd=225863|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=5|upostag=PRON
+5	go	go	AUX	_	Aspect=Prosp	0	root	_	AlignBegin=225863|AlignEnd=226260|Gloss=PROSP|deprel_main_pred=root|head_MST=0|upostag=AUX
+6	||	||	PUNCT	_	_	9	punct	_	AlignBegin=226230|AlignEnd=226260|Gloss=PUNCT|deprel_main_pred=punct|head_MST=9|upostag=PUNCT
+7	#	#	PUNCT	_	_	9	punct	_	AlignBegin=226260|AlignEnd=227120|Gloss=PUNCT|deprel_main_pred=punct|head_MST=9|upostag=PUNCT
+8	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	subj	_	AlignBegin=227120|AlignEnd=227205|Gloss=NOM.SG.1|deprel_main_pred=subj|head_MST=9|upostag=PRON
+9	go	go	AUX	_	Aspect=Prosp	5	conj:dicto	_	AlignBegin=227205|AlignEnd=227320|Gloss=PROSP|deprel_main_pred=conj:dicto|head_MST=5|upostag=AUX
+10	}	}	PUNCT	_	_	5	punct	_	AlignBegin=227290|AlignEnd=227320|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+11	take	take	VERB	_	_	9	comp:aux	_	AlignBegin=227320|AlignEnd=227630|Gloss=take|deprel_main_pred=comp:aux|head_MST=9|upostag=VERB
+12	up	up	ADP	_	_	11	compound:prt	_	AlignBegin=227630|AlignEnd=228049|Gloss=up|deprel_main_pred=compound:prt|head_MST=11|upostag=ADP
+13	//	//	PUNCT	_	_	5	punct	_	AlignBegin=228019|AlignEnd=228049|Gloss=PUNCT|deprel_main_pred=punct|head_MST=5|upostag=PUNCT
+
+# sent_id = ENU_22_Barman-Interview_MG__65
+# sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/ENU_22_Barman-Interview_MG.mp3
+# speaker_id = Sp99
+# text = # so mtschew # { na so || na so } >+ e be o //
+# text_en = So mstchew, that’s how, that’s how it is.
+# text_ortho = So mstchew na so, na so e be o.
+# timestamp = 1591368508.167258
+1	#	#	PUNCT	_	_	6	punct	_	AlignBegin=228049|AlignEnd=228760|Gloss=PUNCT|deprel_main_pred=punct|head_MST=6|upostag=PUNCT
+2	so	so	ADV	_	_	6	discourse	_	AlignBegin=228760|AlignEnd=229170|Gloss=so|deprel_main_pred=discourse|head_MST=6|upostag=ADV
+3	mtschew	mtschew	INTJ	_	_	6	discourse	_	AlignBegin=229170|AlignEnd=229500|Gloss=sucking_of_teeth|levenshtein=Yes|mot=mstchew|deprel_main_pred=discourse|head_MST=6|upostag=ADJ
+4	#	#	PUNCT	_	_	3	punct	_	AlignBegin=229500|AlignEnd=230240|Gloss=PUNCT|deprel_main_pred=punct|head_MST=3|upostag=PUNCT
+5	{	{	PUNCT	_	_	6	punct	_	AlignBegin=229500|AlignEnd=230240|Gloss=PUNCT|deprel_main_pred=punct|head_MST=6|upostag=PUNCT
+6	na	na	PART	_	PartType=Cop	0	root	_	AlignBegin=230240|AlignEnd=230340|Gloss=be|deprel_main_pred=root|head_MST=0|upostag=PART
+7	so	so	ADV	_	_	6	comp:pred	_	AlignBegin=230340|AlignEnd=230830|Gloss=so|deprel_main_pred=comp:pred|head_MST=6|upostag=ADV
+8	||	||	PUNCT	_	_	9	punct	_	AlignBegin=230800|AlignEnd=230830|Gloss=PUNCT|deprel_main_pred=punct|head_MST=9|upostag=PUNCT
+9	na	na	PART	_	PartType=Cop	6	conj:dicto	_	AlignBegin=230830|AlignEnd=230950|Gloss=be|deprel_main_pred=conj:dicto|head_MST=6|upostag=PART
+10	so	so	ADV	_	_	9	comp:pred	_	AlignBegin=230950|AlignEnd=231190|Gloss=so|deprel_main_pred=comp:pred|head_MST=9|upostag=ADV
+11	}	}	PUNCT	_	_	6	punct	_	AlignBegin=231160|AlignEnd=231190|Gloss=PUNCT|deprel_main_pred=punct|head_MST=6|upostag=PUNCT
+12	>+	>+	PUNCT	_	_	14	punct	_	AlignBegin=231160|AlignEnd=231190|Gloss=PUNCT|deprel_main_pred=punct|head_MST=14|upostag=PUNCT
+13	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	subj@expl	_	AlignBegin=231190|AlignEnd=231318|Gloss=NOM.SG.3|deprel_main_pred=subj|head_MST=14|upostag=PRON
+14	be	be	VERB	_	PartType=Cop	9	comp:cleft	_	AlignBegin=231318|AlignEnd=231620|Gloss=be|deprel_main_pred=comp:cleft|head_MST=9|upostag=VERB
+15	o	o	PART	_	PartType=Disc	14	mod:emph	_	AlignBegin=231620|AlignEnd=231860|Gloss=EMPH|deprel_main_pred=mod:emph|head_MST=14|upostag=PART
+16	//	//	PUNCT	_	_	6	punct	_	AlignBegin=231830|AlignEnd=231860|Gloss=PUNCT|deprel_main_pred=punct|head_MST=6|upostag=PUNCT
+
